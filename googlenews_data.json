@@ -1,0 +1,1706 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "title": "OpenAI brings Sam Altman back as CEO less than a week after he was fired by board",
+            "snippet": "Less than a week after he was fired as CEO by the OpenAI board, Sam Altman is back running the artificial intelligence startup.",
+            "publisher": "CNBC",
+            "timestamp": "1700633333000",
+            "newsUrl": "https://www.cnbc.com/2023/11/22/openai-brings-sam-altman-back-as-ceo-days-after-ouster.html",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/WZEvhGi9B1VqoeOuiD2s6rNTUyEdX6mM8P9hl1BQ2-GzKTEy-N4D83gBncEJyeWkbvvfO6sbnkRiT8raR8RfvqsOUynqQbMvOPBbMb9g36bwG_X1qeRhMJn2nd_dhTTvZUqvmRHqTUMwBKXSZiXzaxZXQ8ytmx9IGtpGyDVclQfCkjCLhT1ScVv0QEeY8CdUFk6ud7iQQEsYS_KjK6TxB8c",
+                "original": "https://image.cnbcfm.com/api/v1/image/107329710-1699300428764-gettyimages-1778705435-js1_7753_lhojervs.jpeg?v=1699300492&w=1600&h=900"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Before Altman's Ouster, OpenAI's Board Was Divided and Feuding",
+                    "snippet": "Before Sam Altman was ousted from OpenAI last week, he and the company's board of directors had been bickering for more than a year. The tension got worse ...",
+                    "publisher": "The New York Times",
+                    "timestamp": "1700609022000",
+                    "newsUrl": "https://www.nytimes.com/2023/11/21/technology/openai-altman-board-fight.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/ORODDmYV-IUnNGTDvsqcHsD-ZfuTnbgyMUtEHz48lbDRl0smRDFnpHIdy0L8_TARbdGt0q4VnUz3tbxligQSrncrNUv_vbX-pr7HQm6K9RAm13Gq0SvTW9UBYNGb3n9tOXLdDLQowjGfkcweAcDlXZG97f5JWCGGA7cb49lGns_YsIs0ezHjOzFuuPG7dewhsEMPWh2tF3VqKWpAj0CoQ6fYbUXWlwSfrYqL",
+                        "original": "https://static01.nyt.com/images/2023/11/22/multimedia/openai-board-wzjg/openai-board-wzjg-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+                    }
+                },
+                {
+                    "title": "Opinion: The drama around Sam Altman is an urgent warning",
+                    "snippet": "The ouster of OpenAI CEO Sam Altman is very juicy and dramatic, writes Jill Filipovic, but 'it should be raising larger questions, far beyond one company's ...",
+                    "publisher": "CNN",
+                    "timestamp": "1700578200000",
+                    "newsUrl": "https://www.cnn.com/2023/11/21/opinions/sam-altman-openai-ouster-danger-filipovic/index.html",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/e_GurUKWX9C7PYYrSSSdyYjGmar2sxxTJPpYBvDtbaZDY_6LmMAyhDvte6pmukCyi8sBDxA2rMT5nubx8gR5VOw6VTP0XGlSafzDBq7t89f1gNVI-25qsW6xrI_W2vX0E98PbJRXbvcs4VgkuJi_2lihzjbaiRFOsMQ30A_J5fs06N6XcRPzt7NXWJb8",
+                        "original": "https://media.cnn.com/api/v1/images/stellar/prod/231121092311-sam-altman-09132023.jpg?c=16x9&q=h_720,w_1280,c_fill"
+                    }
+                },
+                {
+                    "title": "The Money Always Wins",
+                    "snippet": "Whether he lands at Microsoft or successfully retakes the throne at OpenAI, one thing is certain about Sam Altman's future.",
+                    "publisher": "The Atlantic",
+                    "timestamp": "1700600877000",
+                    "newsUrl": "https://www.theatlantic.com/technology/archive/2023/11/sam-altman-open-ai-microsoft-investment-profit/676077/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/gNn9BTa8Py03khO-fBFCPqc945cV5HzWimjx9V6a4E7iB6as2tgdEx0Lgb-tDBtdTLjAQYsNaacv7_gp6d45RKGuPb9NKAR2hqi0_KEXUdtp1fxln7bLrWxeD-cOOHQZHuFEbZisH0X9VDuyeiLK3kg51mHN6QInIV-Uh7INSEqG1Aqz2YW_9881RbTyDqR8tzjngMUPE-ILH4MKjsNLmceSkW1KQh3eSOkvwa3V0-w",
+                        "original": "https://cdn.theatlantic.com/thumbor/fFjb5e7E2q_tfJ7DEFE-74ZMqIo=/0x0:5134x2888/960x540/media/img/mt/2023/11/GettyImages_1258197310_copy/original.jpg"
+                    }
+                },
+                {
+                    "title": "Capitalism Works, Says ChatGPT - WSJ",
+                    "snippet": "A royal governance screw-up shows what nonprofits could learn from CEO pay.",
+                    "publisher": "The Wall Street Journal",
+                    "timestamp": "1700607000000",
+                    "newsUrl": "https://www.wsj.com/articles/capitalism-works-says-chatgpt-technology-business-corporate-governance-sam-altman-17df6792",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/Hd3dq0Fsp_BEj_zEjBQ9UuqyozP_50RVjlF-UgT1hUGZvpaliVJTGqYwiSrqKah5RcXGL5PoJYKmK5lulsTvDCKE87YI8j2bS63_Qs8VUfnF",
+                        "original": "https://images.wsj.net/im-890449/?width=700&height=467"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Binance's Zhao pleads guilty, steps down to settle US illicit finance probe",
+            "snippet": "NEW YORK, Nov 21 (Reuters) - Binance chief Changpeng Zhao stepped down and pleaded guilty to breaking U.S. anti-money laundering laws as part of a $4.3 ...",
+            "publisher": "Reuters",
+            "timestamp": "1700627580000",
+            "newsUrl": "https://www.reuters.com/markets/us/us-authorities-set-unveil-settlement-with-binance-source-2023-11-21/",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/8Fsxdc9jGeg5B8qU2bASvZG-oYCBkb87RdFVFb8aFk4-CqFQQTTGUtEaBRUx1aV3C0i6ofddXcpYnr6bg5whNeK0SYvvox-XCNg68sM3iLA4uyHmt3CcZakeu0knEndSH5lIFBf0WPSNPQrLs9x1p9rQAa7rHv8",
+                "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/6G6CKU4IGFM6DAAQJJKGHJMVAM.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "CEO of world\u2019s largest cryptocurrency exchange pleads guilty to money laundering violations",
+                    "snippet": "Billionaire Changpeng Zhao and leading cryptocurrency exchange Binance pleaded guilty on Tuesday to federal charges in a watershed moment designed to bring ...",
+                    "publisher": "CNN",
+                    "timestamp": "1700608140000",
+                    "newsUrl": "https://www.cnn.com/2023/11/21/investing/binance-changpeng-zhao-treasury/index.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/rKiB-Z-FI7cD1yg1ITkAcIvNoT6IChOVe6r50XlXekGbqkUlk34MtQxbHnzoY_OB-2t_ZsyH3_PDGAf3FWXenjSOAHSJlalq0-E7sQg3lMtcrNMx7bqBNBtt0yQ9E-JnSSkucSoYBYlD5_5dkPgsL4VYBYuCycjNvWIgGuf7T-hN2MUybgqdXqEzeBbzjppk7AfTTHuyWx4v",
+                        "original": "https://media.cnn.com/api/v1/images/stellar/prod/230503172653-01-chinese-companies-distancing.jpg?c=16x9&q=h_720,w_1280,c_fill"
+                    }
+                },
+                {
+                    "title": "Guilty: The Bloomberg Close, Americas Edition",
+                    "snippet": "Good afternoon. Here's what you need to know to end your day. Binance and CEO plead guilty, agree to pay billions in fines. Sam Altman in talks with OpenAI ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1700603000000",
+                    "newsUrl": "https://www.bloomberg.com/news/newsletters/2023-11-21/guilty-the-bloomberg-close-americas-edition",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/5sEJ-SRnFd9z4GlhQnKluxJ5x3TNj6GC7tBrqqi8DIM4liYvTg5qd-RVZVyZDUEHXOY3b2ON013t9R4781X5-8_f9iudkR1zr93DwYED3vLqy4eVzXb6pcTZywfiZqv_SlHNlVs",
+                        "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTIrkBg4p8Bo/v0/-1x-1.jpg"
+                    }
+                },
+                {
+                    "title": "Binance Pleads Guilty, Loses CZ, Pays Fines to End Legal Woes",
+                    "snippet": "(Bloomberg) -- Binance Holdings Ltd. and its Chief Executive Officer Changpeng Zhao pleaded guilty to anti-money laundering and US sanctions violations ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1700606145000",
+                    "newsUrl": "https://finance.yahoo.com/news/binance-ceo-zhao-plead-guilty-172434082.html",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/oz7WVSMu4zR0tnvtM6Oj0ZZQVsBHcjN0gtbRsxrwsr26_mbxneIMyoZAgDCOegV_NIWiWXIU510cboTYQIecdqEVqH-7E0OIigVzYsJsaB6DopKyGBFOdOLInfDSyzJWvRdDLmhoe0gGuOPAGD8t5RRWwn_kvKfGQqo_bIPyySweXSaelQaGwb9R2cGqeSfIeQ9OVH7zUvSQK0_ynN923pxRUUdg2M6f1Ff_R0Cfb7YreoVbztpjUPiHG_F75_kkLSsaMod15K22Cfi_ir1OCOw",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/s.PD0cAEjkDNO5gGGhj7HQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/bloomberg_markets_842/f6781fd173d8f8f1cb14857f5e5569d2"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Nvidia revenue soars due to AI, but stock dips on trade restrictions",
+            "snippet": "Nvidia announced major jumps in revenue and net income in its latest earnings report amid the artificial intelligence boom, but the impact of export ...",
+            "publisher": "Fox Business",
+            "timestamp": "1700614440000",
+            "newsUrl": "https://www.foxbusiness.com/markets/nvidia-revenue-soars-due-ai-stock-dips-trade-restrictions",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/lB5oJUjMy00JTC5pMynhATZKvVw0s4yBs6pQrym2UP_qofEkCNhK3jhgkmj6hHQcsIuKe_28VNqpEt9efhzorkHI1SgcwMexCTIp7cPQeTZajpfS9mUvYyK_5lqc8EdeUyEsnlm98nWhpbNVotqaxFOsn-D97n_nFSP8GzxT915_EztylTPeN9MV9ZkX",
+                "original": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/Nvidia-Chip-Logo-GettyImages-1541929519.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Nvidia earnings crush Wall Street estimates again, company tempers China outlook",
+                    "snippet": "Nvidia (NVDA) reported third quarter earnings after the bell on Tuesday that topped Wall Street expectations once again as the artificial intelligence boom ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1700602192000",
+                    "newsUrl": "https://finance.yahoo.com/news/nvidia-earnings-crush-wall-street-estimates-again-company-tempers-china-outlook-212952215.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/HlaechDrFeGkH7CkrlMbyMZ72uScaTTUjengBcLPZ8HROSSoxKtHMRjiWFHnL816MMTMuQBLdg22asMD6tncmI7jLesLDa5e_3CaA7O_qU6nKrXigM8uEP0VMCOvk4qvymngBjdesWNy2M4AjIC9LMNVpITpYkbA1t7gq2Q-dfDWvfqg36x4ir6nO16plqCIIJU6E2RGXYZILNCaBwUdQ81hjxEe6gzBO3QdVkUr7dqbDwRhtiySggOqkSRhyBurQaVVx2y_yTVkek4ocPVpzRkvKl1I9LHBBg",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/qXjgeh7GcTOciJ6DGwAWLg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ2NQ--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/b34b3ca0-87ca-11ee-bab3-68e43893e48e"
+                    }
+                },
+                {
+                    "title": "Nvidia's revenue triples as AI chip boom continues",
+                    "snippet": "Nvidia called for accelerating revenue growth in the next quarter, even as executives warn that government limits on sales to some countries will hurt ...",
+                    "publisher": "CNBC",
+                    "timestamp": "1700598540000",
+                    "newsUrl": "https://www.cnbc.com/2023/11/21/nvidia-nvda-q3-earnings-report-2024.html",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/IlbBXNOlqiysQ9pFWktqbjiDoaj_tc96AzwJfayBjaMShw5buqGG4fPvjrkmg47ik1cqGyn7p0AT1tOBCZ1KdZZQUI0ZCdEABqZkO5nwhgWTc2zVD2-QmWERqPsA-KcYum4hkKTLRBKbaCbewwC8Fc-TY2HTTbLmI6cuEvQwv0vcEI0hbMzFslYQpONAjO22Vi61qweHru4",
+                        "original": "https://image.cnbcfm.com/api/v1/image/107337398-1700591512473-gettyimages-1662776626-SENATE_AI.jpeg?v=1700591613&w=1600&h=900"
+                    }
+                },
+                {
+                    "title": "Nvidia's biggest risk to its outlook right now is China",
+                    "snippet": "Questions about its future sales to China still loom and pose the biggest uncertainty to Nvidia right now.",
+                    "publisher": "MarketWatch",
+                    "timestamp": "1700617620000",
+                    "newsUrl": "https://www.marketwatch.com/story/nvidias-biggest-risk-to-its-outlook-right-now-is-china-c5ce16f4",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/7HPTlfl7k45uWGmNcrOJXXc2zvU5DbcE0057xaOszNSoZZDYAlo97FDKkJGtpA0IZGSCUpW6X_aTzfR13NJFAzqCXEhnyW_5syUbxP1I",
+                        "original": "https://images.mktw.net/im-262102?width=1280&size=1"
+                    }
+                },
+                {
+                    "title": "Nvidia (NVDA) Stock Falls After Failing to Meet Investor Expectations",
+                    "snippet": "Nvidia Corp. investors gave a cool reaction to its latest quarterly report, which blew past average analysts' estimates but failed to satisfy the loftier ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1700609354000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2023-11-21/nvidia-falls-after-failing-to-meet-investors-lofty-expectations",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/a7kn3ShJN0m5eJrKaKVHawLVIlwC26ZC-X4yd_lT3Ji6SZ028EF5P0SGIIcXDkLWVd6eWRINH4ZW6l5blS1257IweQIX3piO2HO3OORaiYKRZJDYn6S9WhlinkM8Ro1jxc5PutoN",
+                        "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQPrAKaPBsKU/v3/620x-1.jpg"
+                    }
+                },
+                {
+                    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2024",
+                    "snippet": "NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October 29, 2023, of $18.12 billion, up 206% from a year ago and up 34% from the ...",
+                    "publisher": "NVIDIA Blog",
+                    "timestamp": "1700601865000",
+                    "newsUrl": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2024",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/PzV1hH8QhF2q380x1S0eFiXIadgbIoyyCdeRsAmzJxHMzRNfcjZIJUg0niM7WLcXx_phOm0ZI4jF2rQduRZq65dYDEkBHzPDo3Bi0pJbPvGviE95UELno7uejadzBo0nB2rpYNtFPf36CMSE4djTF1uI95B-UxLYQqbTIo9yg6n4WzD-j3Q6PRTQJycBNNJsys28A8cWxAaokRJZZSTr3rE2xfDrZCQpEyAJQQCeuucZ_8mzftW64nRHW9-va43fvtB1-C7xC91XnqhmW76IVVzd67nKGCHAJWEVPh8pqAuqPE5WUGo",
+                        "original": "https://s3.amazonaws.com/cms.ipressroom.com/219/files/202305/646e7430a1383555093ab62f_463fe102-9bba-4d9e-931c-3c5898b67a2/463fe102-9bba-4d9e-931c-3c5898b67a2_83b7cbb2-628d-48a7-8f79-88b0b6292490-prv.jpg"
+                    }
+                },
+                {
+                    "title": "Nvidia earnings trounce estimates, China concerns linger",
+                    "snippet": "Nvidia (NVDA) reported third-quarter results crushed Wall Street expectations. The chipmaker reported adjusted earnings of $4.02 per share, well above the ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1700605224000",
+                    "newsUrl": "https://finance.yahoo.com/video/nvidia-earnings-trounce-estimates-china-222024525.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/tOer_tFtj4U4OZIC4Q3GBqK4dt0qlgaZ3oC6hHxbrajV7-9RAYDpIkDayW7ieX6my6wAg8kRkHODSzzFgfaJM0SI1Ch7I82LQvvF_3tBHhuZzLFl8KjuMRdzmaLQbyT0Pc8kUg3HSxF_ax9zj7nalIW8mSciOpU-5xlVQs2KiyjLhqA-e9ZerlWYJuUWD8nXLivSeAVPiVp9DNZSLwwgFHc_QcyUvjm44W8t3xrHkcT1lXAft0R3l7d16Vgg0KjSRY72VScWGdAeNhvuUd3Plx_hC7ne9GywSA",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/bx0EQt6Xl3es2DKuMeQPUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/23d4e200-88bb-11ee-8b2b-563aca84a30e"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Texas attorney general opens investigation into Media Matters for 'potential fraudulent activity'",
+            "snippet": "The investigation comes after Elon Musk accused the liberal watchdog group of manipulating data to mislead advertisers.",
+            "publisher": "Fox News",
+            "timestamp": "1700526742000",
+            "newsUrl": "https://www.foxnews.com/politics/texas-attorney-general-opens-investigation-into-media-matters-potential-fraudulent-activity",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/AW0_esUHmzsSAebrQb7RlTXF66HjdzbjcsyJYVkc8IQFkX69IivhYQTnYlve3_bdZ0M-AAxp0mnOP-tI9JaOzEIwxGHmBbQlHGUSQhbz4vFLmn5qfQ-zdbm1_NN-79EdlXJ6Tzt4j6-TxvgKImwf--Cgkh09usGd1FHP4z4jEL905AAVdpFnCc0l9ljvSxBwpvGq8eHn5Q",
+                "original": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1200/675/GettyImages-1236279010.jpg?ve=1&tl=1"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Here are six important questions as Elon Musk faces an ever-deepening crisis over his unhinged behavior",
+                    "snippet": "After Musk endorsed an antisemitic post on his hate-drenched platform, X, there is mounting pressure for others to take additional action against him.",
+                    "publisher": "CNN",
+                    "timestamp": "1700569260000",
+                    "newsUrl": "https://www.cnn.com/2023/11/21/media/elon-musk-six-questions-behavior/index.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/ILbiq98hflmnlbu0NAr1gbTJoq9jUtlS3UctIuVsW25ikTKb7lPY8Cfnl4vG7cOxKZfH0zsiZsjpIHrEphSf5-Kb6HOXuUY2exDLMkny20iiSPtIZOZzKe0lyd_qLVvsIiqn-Wr2RKHkpAXPuBAp3n0sWgs_5ItvvdZom7AA_WecYT-Dk8ANKvO-",
+                        "original": "https://media.cnn.com/api/v1/images/stellar/prod/231121120546-elon-musk-061623.jpg?c=16x9&q=h_720,w_1280,c_fill"
+                    }
+                },
+                {
+                    "title": "Elon Musk yet again pulls back the veil to reveal the machinery of the liberal censorship complex",
+                    "snippet": "Elon Musk is suing Media Matters, claiming it fabricated appearances of pro-Nazi content near ads from major companies \u2014 a case that has enormous importance ...",
+                    "publisher": "New York Post ",
+                    "timestamp": "1700607420000",
+                    "newsUrl": "https://nypost.com/2023/11/21/opinion/elon-musks-media-matters-suit-enormously-valuable-in-free-speech-fight/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/v_F5SHzT6qVYjrhGsVy0uLCr8lsPpBOwBIzHVnX29gWnQivlfdXRLQYnVy_VHdv3gayCxNPH_d_XCLoo9lZ-qN1asdloElaWySBTep731nd5XM2Ds4MHMVzgnvhwXGUYy1lK9SsEqcbPLcnuKRc7z_8B0UZ4lKc",
+                        "original": "https://nypost.com/wp-content/uploads/sites/2/2023/11/ELONMM.jpg?quality=75&strip=all&w=1200"
+                    }
+                },
+                {
+                    "title": "How hard can it be to denounce Elon Musk\u2019s embrace of antisemitism? Ask Gov. DeSantis | Opinion",
+                    "snippet": "What will it take for Ron DeSantis to denounced all antisemitic incidents? If it's coming from the left, the governor is outspoken, in particular about ...",
+                    "publisher": "Yahoo! Voices",
+                    "timestamp": "1700602804000",
+                    "newsUrl": "https://www.yahoo.com/news/hard-denounce-elon-musk-embrace-214004876.html",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/L0yHmnXH7s4f_JMKhK44X06Xny3uO3YSLGf9mbKCydWBaNdDtnJFXc9Nf3_9UdsgMno3XigtfOxvDKO_TlrzEN-UQ6qWhztCwYWPvggDYzqeaX3NEYdNtwBTAOzK0RLKqlJPm5bdT_dxqrBa3Q8fyGhK-P_WbvPsHEBKcdV2P6JBKcl2LLWwg62NDlrk-rfjGgxQC2rQMhr3zCrj8wYwX3jQeVOlUSr3ZxE9azWcXEPYmQxdMEEhUMR03GRF4P7NVS5201m5TtlLD7BKLjM9wJrR--tGmQ",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/c.6QfsJ01ZonOX.AfQ02mQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQzNA--/https://media.zenfs.com/en/miami_herald_mcclatchy_975/3b4bdec1e7a210c73f30b9eea23e9602"
+                    }
+                },
+                {
+                    "title": "Media Matters Prez: Musk Has Become the Very Thing He Hates",
+                    "snippet": "Media Matters President Angelo Carusone joins The New Abnormal to talk through his organization's recent interactions with Elon Musk and his social media ...",
+                    "publisher": "The Daily Beast",
+                    "timestamp": "1700626500000",
+                    "newsUrl": "https://www.thedailybeast.com/elon-musk-has-become-the-very-thing-he-hates-most-says-media-matters-president",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/2xK9tz74P73QVOR6wIOgVIPLsS-eg2h9tLFG5uk8JTarGg7bNsfCVIMRORMYXZF4RizjsEe4AjPrUUt3m6wJZXt4l-6j5TXYxQ55UwZPgyJPe6Ufd1JHS8vTHgeDinQToAUmY9-5PDf3xIdS4XiojRAXBi3ScnWd-B30fNURzqShXQ9kbo-tEUNAz2gVmksIVfc3eO783ccDobXYzLrc-fHujoKg8f5qI2I_Ng2wWtw6ACtRnWMFBycJ0W-WWC4JTdNZ3-C7WEh39vkq",
+                        "original": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_1.5/c_limit,w_1044/fl_lossy,q_auto/v1700534308/23112-TNA-elon-musk-tease_veoq4e"
+                    }
+                },
+                {
+                    "title": "Opinion | Why on Earth Are Jewish Leaders Praising Elon Musk?",
+                    "snippet": "Elon Musk has learned that ardent Zionism can be an alibi for antisemitism.",
+                    "publisher": "The New York Times",
+                    "timestamp": "1700522561000",
+                    "newsUrl": "https://www.nytimes.com/2023/11/20/opinion/adl-elon-musk-antisemitism.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/0r3dr-jRiq418oNbsK5K83mQkQqc2InbJDVlqVJ2JK7X3MOj24q-Y8CVilsSzT7_Km_xvwsnoqHTm2BkQxnRcgTzSWBW1-Gvn2gadYtwoOEVtB6NrCwCzhqRhCfB0DKYh14zTUsyiipTtgiXRIqXfw4NUbs-CtoYXV-Bhdgh7w5Jw63bPH47rSrwaDeztUtxaQk8GVN-Eokk11ivyEdTlCtTDocw4qA",
+                        "original": "https://static01.nyt.com/images/2023/11/20/multimedia/20goldberg-mtkv/20goldberg-mtkv-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Live updates: America travels for Thanksgiving",
+            "snippet": "Millions of Americans will travel for Thanksgiving, making it the busiest expected travel period in several years. Follow for live news updates.",
+            "publisher": "CNN",
+            "timestamp": "1700610960000",
+            "newsUrl": "https://www.cnn.com/us/live-news/thanksgiving-travel-flights-weather-2023/index.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/t_krkczzGrF4eMAnCQJ8OzBEurlEa8hk_cep33AjWEcd_kyX9W6OUf5HNLufJcdrmGKe6gvqu9NtsanCW0XFMKD10I3uV9GtQ21hW36MlkOAtn7XEmLATz7bzcFTmlQbc3GDWCyJe68bpF0H89Q0oSUjL5Wu",
+                "original": "https://cdn.cnn.com/cnnnext/dam/assets/231110164732-02-thanksgiving-travel-super-tease.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Travel during the Thanksgiving holiday could set a new record",
+                    "snippet": "Millions are expected at airports and tens of millions on the roads; X sues Media Matters over ad report; Moderna mRNA patent invalid, European agency rules ...",
+                    "publisher": "Marketplace",
+                    "timestamp": "1700581487000",
+                    "newsUrl": "https://www.marketplace.org/shows/marketplace-minute/travel-during-the-thanksgiving-holiday-could-set-a-new-record/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/vLDXBBZCH8Z7fAcgoAWarofrAB2YtGboYL6pa7C6Aeod9v39FEF0_pj3dn0qj03BZOfjT825nvXLSf-zy-Yr-wxq1EPu2MFxXmZaZLhCfR3Zuq0vfzUNDz7n-K11_5Wl_kk8zjSuEW6mdYVagawDBNWeNHpuonUIubosCnjdaHBl",
+                        "original": "https://www.marketplace.org/wp-content/uploads/2023/11/GettyImages-1794172023-e1700580549260.jpg?w=600"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "IRS delays 1099-K rules for side hustles, ticket resales",
+            "snippet": "The IRS again delays law that would have required Ticketmaster, Venmo, and others to issue 1099-Ks to those with more than $600 in revenue in 2023.",
+            "publisher": "USA TODAY",
+            "timestamp": "1700591541000",
+            "newsUrl": "https://www.usatoday.com/story/money/personalfinance/2023/11/21/irs-delays-1099-k-gig-work-tickets-paypal-venmo/71668010007/",
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "IRS delays tax-reporting rule on Venmo, PayPal payments over $600",
+                    "snippet": "A controversial new tax-reporting policy involving payments over $600 on e-commerce platforms like eBay and Etsy will be delayed by one year, the IRS said.",
+                    "publisher": "Fox Business",
+                    "timestamp": "1700596620000",
+                    "newsUrl": "https://www.foxbusiness.com/money/irs-delays-tax-reporting-rule-venmo-paypal-payments-600",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/-4biPSJYzwL_vWdjH0GHJw6ZrOTofsQMjth4-EwdG24X4GotucVdUQOqKmhcxIzpQU9YrZtynkOxawLeIy45R6mlHTqfFAISTNUUEeInizo9pXcIO6LwsVXnJgvgbOMik9TDyk6S8dojkoY3ck1gpw292eKtWGo_nrSPbQ",
+                        "original": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/03/GettyImages-1246514121.jpg"
+                    }
+                },
+                {
+                    "title": "IRS Delays Implementation of Lower Threshold for 1099-K Reporting",
+                    "snippet": "The Internal Revenue Service (IRS) has delayed the implementation of the new $600 Form 1099-K reporting threshold for third party settlement organizations ...",
+                    "publisher": "PYMNTS.com",
+                    "timestamp": "1700620650000",
+                    "newsUrl": "https://www.pymnts.com/taxes/2023/irs-delays-implementation-of-lower-threshold-for-1099-k-reporting/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/Wbwqt-tud2SZ2dHAtVYYLaxn08IsatlPMofz7_7_w_4GQsXjrFAAtflhw65L8-DhqZWqANFHw0RzBoQpq3eBsQNVHvgeFli_pKwXlIhib-_V0XPawIKW8fiNS9eh",
+                        "original": "https://www.pymnts.com/wp-content/uploads/2023/11/1099-K.jpg?w=457"
+                    }
+                },
+                {
+                    "title": "IRS delays reporting rules for users of Venmo, Cash App and other payment apps",
+                    "snippet": "Payment apps and ...",
+                    "publisher": "Action News 5",
+                    "timestamp": "1700599080000",
+                    "newsUrl": "https://www.actionnews5.com/2023/11/21/irs-delays-reporting-rules-users-venmo-cash-app-other-payment-apps/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/lSa1M2B3bjSOvMbGuPn0gOQlvIa9pDNZofKMJdKxxCCiAs8kPWqD0eEp7vRPoxrL5qTXMvROWX3W5YYtNrWBadMX6wF7aTqoaizIjrHWKHbhlpmavN-O3Fvi56UfB6K84peehiFHSifmjAd9Dh4S6j1tzKY12N2Zn4Ezeevnhh5v78e3b7q_7Xc1w_LPh80l_dL-uST33TjxoT2E4BnS_BU9C3WO57tEO6cl7IyvgULdq0jZz1dhVqgCzxvOmnODhjG6UxmLBn2m3ujetbg193YZt-Og65DDJWJmun6LANUYr9o",
+                        "original": "https://gray-wmctv-prod.cdn.arcpublishing.com/resizer/nAwuVrfroBdy8ZioCdx76Iqa16k=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/G2JQ7MIRXRFLPOZIHU5YOQRTR4.jpg"
+                    }
+                },
+                {
+                    "title": "IRS delaying $600 payment reporting rule for PayPal, Venmo and more \u2014 again",
+                    "snippet": "The IRS on Tuesday said it is again delaying the implementation of a 2021 law that requires payment platforms such as Venmo, Paypal or Cash App to send tax ...",
+                    "publisher": "CBS News",
+                    "timestamp": "1700604720000",
+                    "newsUrl": "https://www.cbsnews.com/news/irs-delay-600-reporting-form-venmo-paypal-1099k-2024/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/W4Dqk66sB9m1OzfiRFlCnMbhan9IZW__bqKYAJwHqYnw9hrUrLojzlIud_SN7b3KYeSZYRMHmNVvsGrJSFOu5HqF9U9z6lpVH6ab27LVjkmPeTnYRVNgyk-BrHLYs7JVZHyuG9pmFrTtfmY5XBsCFDhjWInsAIssxVmgP6d9PJWfr8wcqYhfKlz7lF2ANpcAQaEoXkcDO5_HJp-kMtwzc5E0f1Cn77TZ8ec33HVOhmIKEHSMm9JmiOM35ToNHgdqzmtaFt4EDmdjAD8geNOA-sEVtOgTlw_YWDvFolwXK5PBfGKqoqo1",
+                        "original": "https://assets3.cbsnewsstatic.com/hub/i/r/2021/01/07/eccf53a2-e0d7-49e5-9e83-058f9ba977e9/thumbnail/1200x630/f56b356196a14c9a61dc0f592237229c/gettyimages-1289069272.jpg?v=5659e73acd91751548aa89950cf015b0"
+                    }
+                },
+                {
+                    "title": "Make money on eBay or PayPal? The IRS is saving you a tax headache \u2014 for now",
+                    "snippet": "The IRS is holding off on implementing new tax laws that could affect Etsy, eBay and PayPal users for the second year in a row.",
+                    "publisher": "MarketWatch",
+                    "timestamp": "1700590740000",
+                    "newsUrl": "https://www.marketwatch.com/story/do-you-make-money-selling-stuff-on-ebay-or-paypal-the-irs-says-its-saving-you-a-tax-headache-for-now-3df8a484",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/rtjaEiABUbW8I3og0DuaULKFOe_rt0obBLs9Ne24T212A7FWe1MCHQf0AGdK-ub25lWnOqwFxdlae_gpSKYXtWXpD7K0DCiqBoLVhAl3zvU",
+                        "original": "https://images.mktw.net/im-46212809?width=1280&size=1"
+                    }
+                },
+                {
+                    "title": "IRS Radically Dials Back New Rule to Report Venmo, PayPal Transactions Over $600",
+                    "snippet": "The Internal Revenue Service changed course and will now require PayPal and other e-commerce platforms to report a customer's annual transactions if they ...",
+                    "publisher": "The Messenger",
+                    "timestamp": "1700591040000",
+                    "newsUrl": "https://themessenger.com/news/irs-radically-dials-back-new-600-rule-for-e-commerce-transactions",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/G8Mrra3NEe1GPcxxZB4xJgWZ0mkFe966NwMqmZyAYpwbt0oUpE_Bmbs8NV3V1xrwkW9623OK66WfJGSIIjwkQkvuLaD1DoCUksZW_-MVCm3lY8oVJmuyDf5igYVezOyZfgCfrfsw1_dAQ5T_BDCOCafZnMqBhg",
+                        "original": "https://cms.themessenger.com/wp-content/uploads/2023/11/Taxes-1090495926-e1699889737729.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "50 Amazon Black Friday deals with early savings up to 80% when you shop today",
+            "snippet": "There might only be three days until Black Friday, but if you'd rather start your holiday shopping before Thanksgiving, you're in luck. The Amazon Black ...",
+            "publisher": "Yahoo Life",
+            "timestamp": "1700617920000",
+            "newsUrl": "https://www.yahoo.com/lifestyle/50-amazon-black-friday-deals-with-early-savings-up-to-80-when-you-shop-today-195612656.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/8SF9aGFMXcbRTFlScoX_cfTNX_gp_JmvAJ_q4HkWBzakBA32worEfTytVyUBruEqcz-S3a2mYpQtUNU01xUgf4o20gmg7tz0ttNdnw8CGgk_AzghJ7wEiE7Z2l0TqXajSC4lTvjulOMWmoxO9iiW9pDStNtwelYQuRNuFSKssG6TX2jPcSBfiJKvGfKM5tsK4ws5GUbK44l1G5TsFtMEexMKEvF3zkT9TvAGcE6hkkTskGz7EHSX1Ye2Iqt_IGW20rPLcjrvQSJwUtRFk-NjfxNB1379WKph7Q",
+                "original": "https://s.yimg.com/ny/api/res/1.2/uastxxt7Tt3IlapgLi6IlQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM3Mg--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/553666e0-88b9-11ee-bbff-2a26aae8519a"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "133 best Amazon Black Friday deals 2023",
+                    "snippet": "Want more deals? Visit CNN Underscored's Guide to Black Friday for wall-to-wall coverage of the best discounts to be found during the biggest shopping event ...",
+                    "publisher": "CNN Underscored",
+                    "timestamp": "1700595300000",
+                    "newsUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-black-friday-deals-2023-11-21",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/mDZbfaGJ0UDVwD7y4E9NdGxEMyi0J87bW4RMmbuW_r-1ePWjt523kY7Hz0bGOlrTrmx0pPSVfKppuq-WBpG6TngewfOtu_kU-W6iNhO-vRWwvN9bhsvSzVaRk9L4oEeWrsyfL_-0RhLoQQJBL6ueG3vPEh_kXlP2FgacK2vFV8Z0HKjoLamO",
+                        "original": "https://media.cnn.com/api/v1/images/stellar/prod/bf2023-collage-lead-amazon.jpg?c=16x9&q=h_720,w_1280,c_fill"
+                    }
+                },
+                {
+                    "title": "The 75+ Best Early Black Friday Deals of 2023 (So Far) | Reviews by Wirecutter",
+                    "snippet": "Black Friday 2023 is almost here, and the deals are rolling in. Check out these early Black Friday deals on Wirecutter-recommended products.",
+                    "publisher": "The New York Times",
+                    "timestamp": "1700626342000",
+                    "newsUrl": "https://www.nytimes.com/wirecutter/money/best-early-black-friday-deals-2023-1121/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/vorIidGp2RKNv_IuachFPkrXkGgY9pYkvOs1vTt57OOhXhA5W4I-T0HRuk67DMYw_Bjgqkwiothbn_O3H5iO-OPtYPRX_50TnZGflw5O-5ABgkZlO5vQueyzFOvCBrbwosM0_elb409_2GTam_Nw88R9p74Y3DAc0DXlg3BjBlM8LJ5hnPlaj6zJHCaxYz_HUOe4hENiSVis-gxXltpo5d6Cid1MCLNd-EjD",
+                        "original": "https://cdn.thewirecutter.com/wp-content/media/2023/11/bestearlyblackfridaydeals2023-2048px-2x1-v6.jpg?auto=webp&quality=75&crop=2:1&width=1024"
+                    }
+                },
+                {
+                    "title": "Black Friday 2023: The 60 best deals you can get right now from Amazon, Target, Walmart and others",
+                    "snippet": "These are the best Black Friday 2023 deals you can get from Amazon, Walmart, Target and others right now. Save on tech including Apple Watches, iPads, ...",
+                    "publisher": "Engadget",
+                    "timestamp": "1700597063000",
+                    "newsUrl": "https://www.engadget.com/black-friday-2023-the-60-best-deals-you-can-get-right-now-from-amazon-target-walmart-and-others-200420919.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/btvsSAJdP19IcfW9XzleCIOpTwle72ceKz3ldw7KH_BxLGFOryNdM6_cqVSdJfx465ZFtWZEAUCx0KQmvryD_Gz42a9m0NjL5rORmgjLFBC5BRJYdDVcE3e_jZgZPNyXFsIgf_ffRHo4GD_Op1McBqiPKEL-ybZuefszUCG502yT3WDf46ytoKwJ4WM8faetVkn1q_kI4-porUIprcCQOjKzuxznbd7EWgbwEZpUvb7nFjPmYtKimTSNyLo9UOXL4bkqrIXfHOuzCDjl_HsG_-SeZmbjUo9ERA",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/wz1j7KxMBJ_jcQPTSrzYDQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/11241060-8553-11ee-94be-4128370bbe76"
+                    }
+                },
+                {
+                    "title": "The best Black Friday deals to kickstart your holiday shopping in 2023",
+                    "snippet": "Shop the most incredible deals of the year at Amazon, Walmart and all the other usual suspects.",
+                    "publisher": "Yahoo Life",
+                    "timestamp": "1700628420000",
+                    "newsUrl": "https://www.yahoo.com/lifestyle/the-best-black-friday-deals-to-kickstart-your-holiday-shopping-in-2023-153006629.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/LyinUj0yPgUBMCWjTydoCVi4qRo5D0LUnOY5A7lHWiKVwMe6s8AW4hk5b6P3rxp4IyePOGOH_A8PpKaH7tKlblwJKtYMdnG9dWn5Q4XYHybKFO2VpEwN5xNXMmlxpV1U7EtjG_NLe4t0zF5xdB1_hmWeAL0hGHnwMc42kLfBHWUnLRAjTekmN4A90GQK37UNypFVMg1-G2vpDR-FQIj3XGVdkpEdBV4eWMQcg_-sYyePXtpT1qLwOixs4Cpz6oEK_B4i9Rfdicxe-_qhIqp3Sor5BXnDP5tktQ",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/UcAIgSSMOAz_DTXJMpT1ew--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ceaa39f0-84ba-11ee-9def-00d08add019b"
+                    }
+                },
+                {
+                    "title": "I Spend 40 Hours a Week Searching for Deals\u2014Here Are the 14 Best Early Black Friday Picks",
+                    "snippet": "Early Black Friday deals are here, and I've rounded up 14 of my top kitchen and lifestyle picks. Shop pieces from Le Creuset, Brooks, West Elm, Fellow, ...",
+                    "publisher": "EatingWell",
+                    "timestamp": "1700487000000",
+                    "newsUrl": "https://www.eatingwell.com/editor-loved-deals-black-friday-2023-jpg-8387690",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/f9SJ4droDBMPzBzsGMqDB96NdGanoCO32xPBtNk5KEHx_DrRldRY3U6n4bD7abLvP4YHY6roj309UHHdOePV3K45NlU-iKEhma0ZkMBcJxUuVBk_jNvX-VTpCtOQxVnNlPk_rJVSMRik0gAuM0NG_bm6G9OCjun_Pk4BRsbAYMGx-dOWM1rIaWOMvVe9LE3SOIgqlqR6ZTg_rs7JHquhWys-hzj5YfijxjPMi-mYPXgHZThczX6K4oR2BjfOZqDMtwjVGTosZ2Qz5X1Hg-0qzJq6IQOVi2lS3bpPTg",
+                        "original": "https://www.eatingwell.com/thmb/zr9OEJMOhGC7tJEqJeXL_-1Nn7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/editor-loved-deals-black-friday-2023-e9d9c878bec4473e8d7868f8ffc12f01.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "US existing home sales slump to more than 13-year low, prices accelerate",
+            "snippet": "WASHINGTON, Nov 21 (Reuters) - U.S. existing home sales dropped to the lowest level in more than 13 years in October as the highest mortgage rates in two ...",
+            "publisher": "Reuters",
+            "timestamp": "1700597100000",
+            "newsUrl": "https://www.reuters.com/markets/us/us-existing-home-sales-slump-more-than-13-year-low-october-2023-11-21/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/z1EGnL6J6bWe70abhPlR6af94XqQihF0A76RDxJGyID9QrZ8bNkdNjCuPzllwDF5XyXZIN_dG3e3OqXtZQmHzA9X5KP9z_rwEwSc3HOezWHh0nnGs_kWebCtbiUs22kCqQijwZr0zx__xUfWefgNw3t_wyj6WBI",
+                "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BLKVNNNDW5P5PNGP2DBYLAM4J4.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "US home sales on pace for the worst year since 1993",
+                    "snippet": "Home sales may have their worst year in 30 years. Sales slumped in October and prices continued to climb, as mortgage rates surged last month and inventory ...",
+                    "publisher": "CNN",
+                    "timestamp": "1700582040000",
+                    "newsUrl": "https://www.cnn.com/2023/11/21/homes/october-home-sales-fell-on-high-mortgage-rates-soaring-prices-and-low-inventory/index.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/ZxemLkxB5KhvotRkCMJG7AxHkLHx5pzJvo2rhwWMiRq3t8YjE8nztChQ8pM3p3hueojNNxZmohflroZYjUeEYMwsiix8TPQFbgCcg6irgvpaAMxyRru2DZl9-h53LkxSE5GGJ2CLFlmgxvQzDJYGx6tSYYwZ4Q6vd3zmwLfc4KddIxM",
+                        "original": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1791433595.jpg?c=16x9&q=h_720,w_1280,c_fill"
+                    }
+                },
+                {
+                    "title": "Home sales fell to a 13-year low in October as prices rose",
+                    "snippet": "Sales of previously owned homes fell to a 13-year low in October, due to high prices, swollen mortgage rates and a low supply of homes for sale.",
+                    "publisher": "CNBC",
+                    "timestamp": "1700578801000",
+                    "newsUrl": "https://www.cnbc.com/2023/11/21/home-sales-fell-to-a-13-year-low-in-october-as-prices-rose.html",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/OnlJTf8NgUkJYUgVEm0AL5uoGllGGt_ikVPMWWSK-y8yGuuIOKLC78uS_emCByAsk_L85d9cj0H6jID8Kgy7L1FLQCEVALBsxSIyO0f_NxM2Po-cqiszGimxbTKGPruDtBV_m-Al6iAOn2Uo2M0zEJHodxgKwred2CT_nFjuCJeM4s4loh1sVuUrAtdZFlQZc5xq-ZZY3SFK3y9gL4c0dr-IQzcc",
+                        "original": "https://image.cnbcfm.com/api/v1/image/107328053-1698949208556-gettyimages-1623105153-US-ECONOMY-HOME_SALES.jpeg?v=1698949282&w=1600&h=900"
+                    }
+                },
+                {
+                    "title": "Mortgage rates, prices, push home sales home sales to record lows",
+                    "snippet": "The National Association of Realtors reported existing-home sales fell far below economists' estimates in October. Mortgage rates partially to blame.",
+                    "publisher": "USA TODAY",
+                    "timestamp": "1700580910000",
+                    "newsUrl": "https://www.usatoday.com/story/graphics/2023/11/21/home-sales-decline-housing-bust-level/71618686007/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/0lpK1ExsK-jlcBFrT3FU1uVMqmq1PRGJi7rfFaOtCgoD-wLQslt8VF_Ltyt0gbcuQzgG5YvQSmYPe-2R7VyT5-lK2O4nNovDpOhhlvyZKPWFubVUyghdg7mykLUoqvdwjUIM1-SW7HqyBlocx7-PfoeduoUlQ6LFAhkD5OkzNXh0TlfP4zUA5ZwHDwH8LEL2Pc0hCqagcAcuh4uHaaN2tW9ijq8fzTs6zJyancqf1nIfBklTpI2bid56y5g5GeQJQ0yK6H8R0lcF",
+                        "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/21/USAT/71665874007-housedownarrowv-3.png?crop=2183,2910,x1480,y0&width=300&height=400&format=pjpg&auto=webp"
+                    }
+                },
+                {
+                    "title": "Gold prices holding above $2000 as U.S. existing home sales fall more than 4% in October",
+                    "snippet": "(Kitco News) - The gold market is seeing a gain above $2000 as the market sees further support from disappointing home sales data.",
+                    "publisher": "Kitco NEWS",
+                    "timestamp": "1700579340000",
+                    "newsUrl": "https://www.kitco.com/news/2023-11-21/Gold-prices-holding-above-2-000-as-U-S-existing-home-sales-fall-more-than-4-in-October.html",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/luc8XvJjPVPFZIyv47aCtmU5-lnuviZ_-4GMKefjqJcTFdqNhbvL3AD_kjV7phGhdTNH4dbu822nA85nSmZZhBz4k9qrRfNpboTEELritzSosYpuUOsnuTo9Py9bUzxq3Urn",
+                        "original": "https://www.kitco.com/news/2023-07-26/images/Shutterstock_1538141885.jpg"
+                    }
+                },
+                {
+                    "title": "First-time homebuyers finding it 'tough to break in' to real estate market: Danielle Hale",
+                    "snippet": "Realtor.com chief economist Danielle Hale reacts to existing home sales hitting a 13-year low at 3.79 million in October.",
+                    "publisher": "Fox Business",
+                    "timestamp": "1700586134000",
+                    "newsUrl": "https://www.foxbusiness.com/video/6341552397112",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/yeZCCTcah-Glc_Ptw29Np0WbvHHzbLC3V5CwXvY9_JLN5riQpK3YxqUEIaoocfvu6wQRExIjMIq9J449d6n3q135XoN9kHpM1R6WCiKPUAO_mlR8JRcYYq2_MmjDzhlyVpAqI1tpVK8gTumrHeR4uNYpsWG95iqvVkNsyAb5-M38oV1Y8UBh3nS0hOJtc2bpfwt2LAujRFgK459B9CN7I--gKCnrJzo07RaSUDlnjjXIlDEo351oYepCeOfJjB0U6hM",
+                        "original": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/5d4b6aff-5b62-4b70-8577-24b7c85cb269/4dfc722e-eccf-4dea-8475-b6a593157309/1280x720/match/image.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Gas prices: National average at lowest level of 2023 ahead of Thanksgiving weekend",
+            "snippet": "Gasoline prices are at their lowest level of the year heading into Thanksgiving. The national average is $3.30 per gallon, down $0.25 in the last month ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1700600839000",
+            "newsUrl": "https://finance.yahoo.com/news/gas-prices-national-average-at-lowest-level-of-2023-ahead-of-thanksgiving-weekend-210719722.html",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/ifp2oWgHx87fNN1OdEkfCg8YKGIZ_FGeNKLznSbaEnknKevqDlz3zyOgj855rRXGOkiovjeFHfXi3kPnviyTGMb-r4MPM5ztthpdEO41Zfqk24P5XTOMW7wJF2rxlaVh8wff-PZ3m_7VDHpjC4_P-Ei_lkW81-4YH94E7ynt_-Q0_717N9khbBpRxzlwsf-bo0LAupJzOv2e4CbYQgdvg3FOM-IAUXSvIWqGuoBvjJDLo_8QV4YI9ch9d7hqQLAjRnwSUjJTg_SwVI5PLikdMSG4vjn9fxCNSQ",
+                "original": "https://s.yimg.com/ny/api/res/1.2/lS0uCnBTlJiJc4nO4l2.2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM1OA--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e206a5b0-88a2-11ee-bfff-428dabbb087c"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Thanksgiving travelers to enjoy lowest gas prices since 2020",
+                    "snippet": "SALT LAKE CITY (KUTV) \u2014 For those hitting the roads for holiday travel, gas prices may give them something to be thankful for. Gas prices are expected to be ...",
+                    "publisher": "KUTV 2News",
+                    "timestamp": "1700633040000",
+                    "newsUrl": "https://kutv.com/news/eye-on-your-money/gas-prices-tumble-in-time-for-thanksgiving",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/ozqCWlciH4u9eEgxHh4y0FBqp4TX51F5CxvbfVvo6QTMQXBY1rPlTgh4l1tuOEZThbEwOgiNVvO_dhIltsAqZkhAJyYPqojx33HWSF0gwaWqnxHHgCaIs8noERxIdTzQyE4V4bQIQdv-4EbCjgl86qjZqD67Ze-USXSjfllqL5Cx75e9l4kxKdAeer9WCcACAA",
+                        "original": "https://kutv.com/resources/media2/16x9/full/1015/center/80/5ca37eb8-a0e8-4786-960d-a841afaca864-large16x9_IMG_4770.jpg"
+                    }
+                },
+                {
+                    "title": "Monday's Afternoon Update",
+                    "snippet": "Sunshine State gas prices are the lowest they've been all year. AAA says Sunday's average price of $3.04 per gallon is 15 cents less than a week ago and the ...",
+                    "publisher": "Florida Trend",
+                    "timestamp": "1700506226000",
+                    "newsUrl": "https://www.floridatrend.com/article/38486/mondays-afternoon-update",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/X8mkDAHV0EUAIfJAilXSItxgmjaOr3uPcs11gH4G5vvK4X2YqG7vtLPdWovqEQIqSHGfjlFonfwzqrk8OgzA8eTTZnEBBT1qpQQbwzjO955mrKA6BbMlqaHHXyDz94Q",
+                        "original": "https://s3.amazonaws.com/floridatrend/39518/apogee-robotics-team.jpg"
+                    }
+                },
+                {
+                    "title": "Good news for drivers this Thanksgiving",
+                    "snippet": "According to AAA, gas prices could hit their lowest Thanksgiving level seen in years.",
+                    "publisher": "TheStreet",
+                    "timestamp": "1700577519000",
+                    "newsUrl": "https://www.thestreet.com/video/good-news-for-drivers-this-thanksgiving",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/wBYMgoJQdHiggPso1behPQzG75c5nE-axhwJflbcKdSJKNWwh00BchpaVOj88QyRgXuKlLUCu1KZo7cSDqcQncLtNS8Asd18_XnDfpONxDltN8yZt7XqaAKWftd-pgve6zuc5ozWqXKrHjaUO4VAXSaHvhhj1Yttl_pWhh4LBwjdePnH5A4rfSfEz13nxcgPVOyTyOrmG1BlozmHFhf0G730xBStpFQw-hUQI-k4MAhbbvcgxbUV",
+                        "original": "https://www.thestreet.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg4NTU1NTA5NDI5NzczOTQw/6-cash-gas-price-dollars-sh.jpg"
+                    }
+                },
+                {
+                    "title": "Holiday Travelers Hit the Road with Lower Gas Prices",
+                    "snippet": "JOPLIN, Mo.- As the holiday season kicks into high gear, millions of Americans are hitting the road to join family gatherings, creating a surge in holiday ...",
+                    "publisher": "KoamNewsNow.com",
+                    "timestamp": "1700604233000",
+                    "newsUrl": "https://www.koamnewsnow.com/lifestyle/holiday-travelers-hit-the-road-with-lower-gas-prices/article_9ee6f472-88b8-11ee-bc32-8bfc6b04ab1f.html",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/8u3zM73vyS_Zi8PfBCaT3MEXrc1dUEEYyjqQKQJEOSUpUC4HAssu0wIJ6f9X5pScpCWR3dOASsk2hJGeQjP4SW2-A5l6t3f9Sse-RQvvM8oWCq_KKFQ4Q4cTv_lSzq3rr4Y1--aJvggt8e8w-y64A1qUlSafN5Iza1CX_-zDFWXuMM_QbUx7G_XQo21Fg22_kTd1W3HyXbpaJBfUiHfzZeT4z-0_SC2m1QAqWreqkbLd7ZM95A8dyvpiSUbXquT9gcAtI1GeU8zikT9i",
+                        "original": "https://bloximages.newyork1.vip.townnews.com/koamnewsnow.com/content/tncms/assets/v3/editorial/a/0e/a0e89352-88b8-11ee-9e7f-db485f595933/655d274b7de3d.image.png?resize=200%2C96"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Fed Officials Thought Rates Could Rise More if Inflation Stayed Stubborn",
+            "snippet": "Federal Reserve officials are contemplating whether they will need to raise interest rates again to cool the economy and ensure that rapid inflation will ...",
+            "publisher": "The New York Times",
+            "timestamp": "1700593922000",
+            "newsUrl": "https://www.nytimes.com/2023/11/21/business/economy/fed-rates-inflation.html",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/7ifCwAWG4E3_5FGqLnFiccNs6xmRuJBavUM-IGmajMcean6OFsZjMnUyZuY_IvXG7etrPs8y4QdlLQWl7eYcRqygoAGzk3UXBzxmkafyDTPbcyG3ZNIjPUO7mwNFSzHmHLGzIJ_795KjMecxRB1YfweicSvpTQqyDNr0LC90jJFUYuE_Wx4kEVD125SlqDRF29zZuJzS5Drg5v7Y-127lVg4eS5SvLh0oA",
+                "original": "https://static01.nyt.com/images/2023/11/22/multimedia/21dc-fed-print-wbgp/21dc-fed-wbgp-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Fed gave no indication of possible rate cuts at last meeting, minutes show",
+                    "snippet": "The Federal Reserve on Tuesday released minutes from its Oct. 31-Nov. 1 policy meeting.",
+                    "publisher": "CNBC",
+                    "timestamp": "1700593236000",
+                    "newsUrl": "https://www.cnbc.com/2023/11/21/fed-minutes-november-2023.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/k1mbOAcgHnpuJf3Oh1aCSS-C1LdhHCokJE4DTe1NNnQbkcBbgxlm12gV1F_CY2-E4dunoC3ByOg5pWcffL-ne1ojibpKWRYthvXlgx0ZnifIpY2IprCFdw75xiZkdWotYkI9repDE9Ns7JYqnmSpZdzft5IlWpI_hraVcjTU_ee0ZMRMqj_mxsCVSyhx64sSV934uQIaLosZp0VwSStCyyGWF3qynLAfuywa60W4iW356oO-jKJGlQ",
+                        "original": "https://image.cnbcfm.com/api/v1/image/107327233-16988648212023-11-01t185128z_685341700_rc2i44a4cb6s_rtrmadp_0_usa-economy-fed.jpeg?v=1698864847&w=1600&h=900"
+                    }
+                },
+                {
+                    "title": "Why Are Stocks Up Today?",
+                    "snippet": "Stocks are up today as investors prepare for an update from the Federal Reserve with hopes for interest rate cuts in the near future.",
+                    "publisher": "InvestorPlace",
+                    "timestamp": "1700498569000",
+                    "newsUrl": "https://investorplace.com/2023/11/why-are-stocks-up-today-nov-20th/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/kN_el2k62H061MFjmiFhYgxrKnHMt_YWxeCAbcM4YgCj6aKi4j1r_ayOmG40MGohdSA-WsZtyQ2Kd3K2ugaqTjREdgw3xztoapaj_vXnQlPxiUXSQOwc0AvH-7MF8n2PdL_wfA",
+                        "original": "https://investorplace.com/wp-content/uploads/2021/10/wall-street-bull.jpg"
+                    }
+                },
+                {
+                    "title": "Fed minutes show central bank in position to 'proceed carefully' on future rate hikes",
+                    "snippet": "Federal Reserve officials are in broad agreement the central bank can \"proceed carefully\" when it comes to future interest rate decisions, minutes from the ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1700595380000",
+                    "newsUrl": "https://finance.yahoo.com/news/fed-minutes-show-central-bank-in-position-to-proceed-carefully-on-future-rate-hikes-193620192.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/yCoPaBcX5nrEguL9xH05xldsgWO3nYFhP5g4O2JbCzf7dz73UWWMM_4iNHVHGHrXNqoduK9XkGMNWHqa1Fl0DiuIlwCRk2kRKZ_yL9gjQNfCLWawZnY9WYlbG6TQRRhqXF_qumhME0MwjK1moJw24eX3_lpJDFHwTaUFcUCjpeF4adHmtkfPneptGYoxQD7CxBK344CPzUQYw9SgPq9OoKNAisRCBozHb-js4fLVqMvQ321jcChMiis7fli2XiGwZAo6v6tTC8MVMJATq3scsbY5A3r7OnuQ9g",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/kOadJZy3jjrJmGsGWNrpoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/f95dc430-88a4-11ee-b2f3-7c6314c77027"
+                    }
+                },
+                {
+                    "title": "Are Today's Fed Minutes a Big Deal?",
+                    "snippet": "There's a reason we haven't been mentioning this week's release of the Fed Minutes as we lament the absence of significant scheduled market movers.",
+                    "publisher": "Mortgage News Daily",
+                    "timestamp": "1700592349000",
+                    "newsUrl": "https://www.mortgagenewsdaily.com/markets/mbs-morning-11212023",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/t8WJxGEnilkrii8MyfOeOc8fa0_fx9c948m7HH2Xv2MrIXpfF7AQteOKTPFQQ1UNjzdbI4RUc0UhyImzT-3rue8vYjWQBLTpirhj7Pg",
+                        "original": "http://amp.mortgagenewsdaily.com/article/image/mbs"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Ford to scale back jobs, investment for Marshall EV battery plant",
+            "snippet": "Ford announced the significant cut in jobs and investment roughly two months after pausing work at the Marshall megasite.",
+            "publisher": "Detroit Free Press",
+            "timestamp": "1700598134000",
+            "newsUrl": "https://www.freep.com/story/money/cars/ford/2023/11/21/ford-marshall-electric-vehicle-battery-plant-reduce-plans-jobs/71664207007/",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/mMD1Zc7X2le8qSHy7cJaPkNJyn7mSR4YEC7bmr9TIV6ANsipOw2vNKiRblo8N8ZekvYZGR53odfOzY2IDblbUY91EHOjM4sacsS3GpqmbsQHfIhFVyVHKDZ6StRfkzljOD_J5sE52soE7LCDUDXb4ou5i2k9N5hWpvYVOY2gC4rbH3nSiZejletySs9DKA",
+                "original": "https://www.freep.com/gcdn/presto/2023/09/13/PDTF/848de3d5-6e82-47f1-be23-0e960647a260-FordMarshall_071223_ES04.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Ford dramatically scales back EV plant amid plummeting sales in blow to Biden's green energy goals",
+                    "snippet": "American automaker Ford Motor Company is scaling back its plans to create thousands of jobs at a electric vehicle battery plant it is developing with a ...",
+                    "publisher": "Fox News",
+                    "timestamp": "1700588520000",
+                    "newsUrl": "https://www.foxnews.com/politics/ford-dramatically-scales-back-ev-plant-plummeting-sales-blow-bidens-green-energy-goals",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/2JxFv3e4t4dX6KeYPKnSbr8dGB2oahbTIehj0NX1rI8Ux1fkLyGHIS7M3i2uKCJwAYcVIPDm2OHTDTYfIq0QKFr9sfJFX5OTs7sHeE6htKGIC30VBS2K_eAtuMIkHxwZHbZ2MEmg4z18lmm4HTWzjNPSE6nfYMtjVYKuHOZckXo0F_TmUaiQzKThrdRd4w",
+                        "original": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/1200/675/Biden-Whitmer.jpg?ve=1&tl=1"
+                    }
+                },
+                {
+                    "title": "Live news: Ford scales back job and production plans for Michigan battery plant",
+                    "snippet": "Live news: Ford scales back job and production plans for Michigan battery plant. Keep abreast of significant corporate, financial and political developments ...",
+                    "publisher": "Financial Times",
+                    "timestamp": "1700602289000",
+                    "newsUrl": "https://www.ft.com/content/d9d932f4-95c3-4d44-a512-d7b855fbf173"
+                },
+                {
+                    "title": "Ford to scale back plans for $3.5 billion Michigan battery plant as EV demand disappoints, labor costs rise",
+                    "snippet": "Ford is scaling back plans for a $3.5 billion battery plant in Michigan as consumers shift to electric vehicles more slowly than expected, labor costs rise ...",
+                    "publisher": "CNBC",
+                    "timestamp": "1700580615000",
+                    "newsUrl": "https://www.cnbc.com/2023/11/21/ford-scales-back-ev-battery-plant-in-michigan.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/UuJ49Zc7M9HgyBM2CAo1n6hwnJOGg2zpQ7vbSW5NkT_Y5v36Pih2XhkJySI12dDDUyCMoSz6-JQp_sFzFDtNeQ9Pn9U7APPbgecRoUf5qGt-DyePuMa-CAV6FyBaepD3i_tshv1OPlHNACLF2PBVa4F3mcV3deoYmF-yCRWIsSpFAGgQpU5HpPTs9tzumM9ZB0kKFTA",
+                        "original": "https://image.cnbcfm.com/api/v1/image/107193810-1676319820053-gettyimages-1247112081-DET133.jpeg?v=1700578299&w=1600&h=900"
+                    }
+                },
+                {
+                    "title": "Ford to scale back planned $3.5 billion electric vehicle battery plant in Michigan",
+                    "snippet": "Ford said Tuesday it is scaling back a planned $3.5 billion investment in an electric vehicle battery plant in Michigan. The news comes as U.S. automakers ...",
+                    "publisher": "Washington Examiner",
+                    "timestamp": "1700615400000",
+                    "newsUrl": "https://www.washingtonexaminer.com/news/business/ford-scale-back-ev-battery-plant-michigan",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/4IYgQWJ7gJp9zG2UueskL-x6tXta_T2xiZAl5j1SzMUi-rR3OVq1MgGKpobG3nr1vd3AwFak5ssOTwSRvJCjwZMGcGQ7uHUyQv3FojUOO4KtfDxjjNt-cE7XWqnvKmwFCLTemAX63nIJprQLEWj26A",
+                        "original": "https://mediadc.brightspotcdn.com/76/9d/b4123e8b4b2f8784957171d60f08/wex-staff-21.JPG"
+                    }
+                },
+                {
+                    "title": "Ford downsizes EV battery factory plan",
+                    "snippet": "Ford will downsize its plans to build a factory in Michigan that makes cheaper lithium iron phosphate batteries using tech from China's CATL.",
+                    "publisher": "TechCrunch",
+                    "timestamp": "1700584755000",
+                    "newsUrl": "https://techcrunch.com/2023/11/21/ford-downsizes-ev-battery-factory-plan/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/FzcAhsjZ3ZE3NST7JTjoOkPbfRPrrAtOewh8uPV1-tMwOG2m2FRHbp6F4fixSpLlv9VJt98RQgBnXarGYXpFSVXBCOQK6pNxaybtQpU5qdT5oUPuTUgYt9FaBPMf6x3EMG3E05J9Y8ysaKwpKQ",
+                        "original": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1741629073.jpg?w=680"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Nasdaq 100 futures tick lower as traders assess Nvidia's earnings: Live updates",
+            "snippet": "Nvidia reported a strong quarter, but some investors worry the stock's valuation could be stretched after its more than 200% rise this year.",
+            "publisher": "CNBC",
+            "timestamp": "1700611200000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/stock-market-today-live-updates.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/Z7_JwLvDlk8CrrOnBpJCwpYNP0rDVvzHjA5XIynf_WxRD8WVay6d-lLie0SUXniMFzRU1g4t8fxUg3l-GKXeIN67ge9mJquJkomMX8olal4Cldy8Z7yOXG5tWfZeXTwFKCxzDnFpa12v2tGX3N5sdppYLUNRaX7OQU3oPyf6fG6qmi1SPNNDib1jkglqOLmr764rQhhKoTEYFOwK38k89K3a1115QbsuqzoqmGg4sivRJ2P7",
+                "original": "https://image.cnbcfm.com/api/v1/image/107308361-16959152532023-09-28t145730z_2121661326_rc2ph3akh7sb_rtrmadp_0_usa-stocks.jpeg?v=1696674037&w=1600&h=900"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Stock market news today: Stocks slide after slew of retail earnings disappoint",
+                    "snippet": "Stocks closed lower on Tuesday, signaling a pause in the November rally as investors awaited results from AI chipmaker Nvidia (NVDA) and digested the ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1700600682000",
+                    "newsUrl": "https://finance.yahoo.com/news/stock-market-news-today-stocks-slide-after-slew-of-retail-earnings-disappoint-210057527.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/Nj0xhbPgmFT5njKrApJHAXXZpT0S9VZAz6SsJ-ZtyZJ6F4YOXd_7PLmTgp5QXmJ7aO7b-BzfVp3nZgABDfqPZnmb04JMCnGj5LTQUmaC4YUszW1Y7NDr_zxRmN6FaCeV7usBZo5gTxlS75-yo-DKZd4-kQniVYqNR0syPeE-IlFFI5c1pyOPDDKs2k5bDUQGae3Nc9KbSxuMzrISI3GjK7Iqpb5wAXlh8pVkZ9AbqPXXjiRHK6UWBno_3yYDH3yC39gSL1_sKFdRfVyhXuVhMuMajthGlI9H2Q",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/C_mmDxZJkyUxEvQFhEkFxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/65a27290-65be-11ed-bf6e-da5a2cd9dd2f"
+                    }
+                },
+                {
+                    "title": "Why Are Stocks Down Today?",
+                    "snippet": "Stocks are down on Tuesday as investors wait for the minutes from the Federal Reserve meeting to be published later today.",
+                    "publisher": "InvestorPlace",
+                    "timestamp": "1700579409000",
+                    "newsUrl": "https://investorplace.com/2023/11/why-are-stocks-down-today-nov-21st/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/HVGmuqRJM-_R2xNiE7ViWSWRcxVMdkIBeAWzAdd_Lb7cjiNbCzoenF8mzsDQXDoHDOoFwB_4dAXnw1HuLzF0xNaTvChuhtnoF9OCVmjrFbzVDxyw1SFDSG-HJ5OZL-uV9b83acX30ImL",
+                        "original": "https://investorplace.com/wp-content/uploads/2022/06/wall-street-red-light.jpg"
+                    }
+                },
+                {
+                    "title": "Stock market news today: US stocks fall as retail earnings disappoint, Nvidia results on deck",
+                    "snippet": "Stocks fell on Tuesday, signaling a pause in the November rally as investors awaited results from AI chipmaker Nvidia (NVDA) and the release of Federal ...",
+                    "publisher": "Yahoo Finance",
+                    "timestamp": "1700599197000",
+                    "newsUrl": "https://finance.yahoo.com/news/stock-market-news-today-us-stocks-fall-as-retail-earnings-disappoint-nvidia-results-on-deck-154235035.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/Nj0xhbPgmFT5njKrApJHAXXZpT0S9VZAz6SsJ-ZtyZJ6F4YOXd_7PLmTgp5QXmJ7aO7b-BzfVp3nZgABDfqPZnmb04JMCnGj5LTQUmaC4YUszW1Y7NDr_zxRmN6FaCeV7usBZo5gTxlS75-yo-DKZd4-kQniVYqNR0syPeE-IlFFI5c1pyOPDDKs2k5bDUQGae3Nc9KbSxuMzrISI3GjK7Iqpb5wAXlh8pVkZ9AbqPXXjiRHK6UWBno_3yYDH3yC39gSL1_sKFdRfVyhXuVhMuMajthGlI9H2Q",
+                        "original": "https://s.yimg.com/ny/api/res/1.2/C_mmDxZJkyUxEvQFhEkFxw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-11/65a27290-65be-11ed-bf6e-da5a2cd9dd2f"
+                    }
+                },
+                {
+                    "title": "Dow Jones Falls As Fed Minutes Reveal These Worries; Jeff Bezos Sells Amazon Stock",
+                    "snippet": "The Dow Jones dipped as the Fed Minutes revealed fears over inflation. Amazon stock fell amid a Jeff Bezos sale. Nvidia earnings beat.",
+                    "publisher": "Investor's Business Daily",
+                    "timestamp": "1700602320000",
+                    "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-falls-as-fed-minutes-reveal-these-worries-jeff-bezos-sells-amazon-stock/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/irxiK4bwe9sxM5IK1mV8-HQpeJiXXrLiwcAgRfNQUqTTF_l28DQtWMcTZsWZspXGocNRGcbzgjVEr69PLcdhhDu2brEo_ghXqprGR5U-xy60olxFMvxeUqqzUxMdBUtWWEfblSY5ddfW9FLXyUc",
+                        "original": "https://www.investors.com/wp-content/uploads/2018/10/stock-Jerome-Powell-02-fed.jpg"
+                    }
+                },
+                {
+                    "title": "Morning Bid: Catching breath as Nvidia update due",
+                    "snippet": "A look at the day ahead in U.S. and global markets from Mike Dolan. A cocktail of renewed AI excitement, Nvidia's (.NVDA) imminent earnings update, ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1700565900000",
+                    "newsUrl": "https://www.reuters.com/markets/us/global-markets-view-usa-2023-11-21/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/kB_612elEdaZZg5OPDmhtR8GJbtmC1rj7FoLb0zcNI-kQL8_2XcvtE_IreVlFyE3vurPgOWGEKPsBqAufrOU0cCaKH6teGlJhKLPzu9y0oU1wohGzMVhLtTot5AxQUNLyiljg6C6VralBMZ3ksIhhsdncdScRSE",
+                        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/74MGEMK7RFOVVOCODW7RBXFHFI.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Gold prices trying to hold $2000 level as the Federal Reserve signals interest rates will remain in restrictive territory",
+            "snippet": "(Kitco News) - The gold market is off its highs and struggling to hold above $2000 an ounce as the Federal Reserve signals it will hold interest rates in ...",
+            "publisher": "Kitco NEWS",
+            "timestamp": "1700594100000",
+            "newsUrl": "https://www.kitco.com/news/2023-11-21/Gold-prices-trying-to-hold-2-000-level-as-the-Federal-Reserve-signals-interest-rates-will-remain-in-restrictive-territory.html",
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Gold slips below $2,000 level as dollar halts slide",
+                    "snippet": "Gold eased below the key $2,000 level on Wednesday, as the dollar stabilized from its recent drop, although expectations that the U.S. Federal Reserve has ...",
+                    "publisher": "CNBC",
+                    "timestamp": "1700634248000",
+                    "newsUrl": "https://www.cnbc.com/2023/11/22/gold-slips-below-2000-level-as-dollar-halts-slide.html",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/S6dTIphnCc3XhUJWHhiGTuPoAN7iqInMQcG3HwkGiPj05YKsuTAVMBFLUXwiCAQOsj9h-kn6qwYs2E7lgFLtTaOqKhMf1tyf7Keg0EUq05w3tKep_YTRrGlTylWz_-EYEJDmKjDKK0LNEhzdtxfrcY-H7d8c-pLEYuUWGymDrbH0G3XXSQmrNpnKRT1e_JU8DcXUxF0Utc7YEacPuC3SWJYwKg",
+                        "original": "https://image.cnbcfm.com/api/v1/image/107316589-1697176043117-gettyimages-1692393946-AA_27092023_1356145.jpeg?v=1700633506&w=1600&h=900"
+                    }
+                },
+                {
+                    "title": "Gold firms near $2000 level as Fed pause hopes lift appeal",
+                    "snippet": "Nov 22 (Reuters) - Gold prices held firm near a key $2,000 level on Wednesday, helped by an overall weaker dollar and dip in U.S. bond yields amid ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1700632825000",
+                    "newsUrl": "https://www.reuters.com/markets/commodities/gold-eases-below-2000-mark-dollar-halts-slide-2023-11-22/",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/_inDLd13Fnz5xRqyFULf9_iODTOEWeXeTz5GwypYLwe9GoL0TgEMcYVz3FLnCOsrOF3BZxzpgkKc4I2QgAivVLUGTedsjm3YrmfbGVWIuuNg4UEaf9goyY2dK2eFV59QQJLJsGAuMkRIURp6mlcyUH7XZq3IVT8",
+                        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/MAPY2T7JUNMORIL3OMXI43D7CQ.jpg"
+                    }
+                },
+                {
+                    "title": "Gold price pokes above $2000, on short covering, dip in USDX",
+                    "snippet": "(Kitco News) - Gold prices are solidly higher and briefly traded above $2,000 in early U.S. trading Tuesday. Silver prices are posting moderate gains.",
+                    "publisher": "Kitco NEWS",
+                    "timestamp": "1700571120000",
+                    "newsUrl": "https://www.kitco.com/news/2023-11-21/Gold-price-up-on-short-covering-dip-in-USDX.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/DMFydIpBMY9mWejJjcbldP3vIss_oI-7qKig3aoxdN_T38FGTqsNl7KOSrDNKOZ1AgpUns0WKgp8hBaxW1VTL7IJKgbXtaezZP_QjBrVY95LIfI_zlz-Ug",
+                        "original": "https://www.kitco.com/images/live/gold.gif?0.2924175530478188"
+                    }
+                },
+                {
+                    "title": "Gold prices touch $2,000 as markets weigh Fed rate outlook By Investing.com",
+                    "snippet": "Investing.com-- Gold prices steadied in Asian trade on Wednesday after briefly touching key highs as the prospect of no more rate hikes by the Federal ...",
+                    "publisher": "Investing.com",
+                    "timestamp": "1700630520000",
+                    "newsUrl": "https://www.investing.com/news/commodities-news/gold-prices-touch-2000-as-markets-weigh-fed-rate-outlook-3240669",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/NTdAta3MyC_TsXNj1I1U3Khp3n_s7ONM9dqi8Fc1tZwDneKjSn6fodM4aApWPuZ1YqbCg_XNDLUQohaPpvJhiJc54GOIgOsQ7_ZqR4_jKGd5rF7teQ",
+                        "original": "https://i-invdn-com.investing.com/news/LYNXNPEB730HT_M.jpg"
+                    }
+                },
+                {
+                    "title": "Fed hikes may have concluded, as central banks purchase gold at a record level",
+                    "snippet": "Exclusive to Kitco News, technical analyst Gary Wagner provides a daily recap of what happened in the gold market, highlighting important events that ...",
+                    "publisher": "Kitco NEWS",
+                    "timestamp": "1700610480000",
+                    "newsUrl": "https://www.kitco.com/commentaries/2023-11-21/Fed-hikes-may-have-concluded-as-central-banks-purchase-gold-at-a-record-level.html",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/MRfZ2G2l4pX1qgtzZtbyAZKmziCgpNNYpUJWxtWFHEZrJJ4bD1bX6q0f8VmbqOR2LRJxaE6aMYcQMjU9KwGlNIUBUa19IzOy__LBU7PEwcvBQiJZFB-SWHhfRw",
+                        "original": "https://www.kitco.com/commentaries/2023-11-21/images/DecGold.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Peaches, nectarines, and plums recalled after listeria outbreak sickens more than 10, kills 1",
+            "snippet": "A listeria outbreak across the United States has killed one person and prompted a recall of HMC Farms fresh peaches, plums and nectarines sold in 2022 and ...",
+            "publisher": "Yahoo! Voices",
+            "timestamp": "1700546269000",
+            "newsUrl": "https://www.yahoo.com/news/peaches-nectarines-plums-recalled-listeria-055749858.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/WfJq7Lsc_vePsvs-2gf5SgESpndmBCdNg_bmqdiNyNL1P-NNnMvIKvj312DIIbjvH37lEMNBgr4-7q_YC8v3xHx0MS4e5WjVkqqAYkghCr8T2F8ojH-bPzoNAo5uPtSZ0-BewWH8dEp3tyw51bWDL1O7iPj_8BwKDH5ZmwyKV-dogwID4KEcveuGEbomY6GtO5T_Q_V9Bbw6Ek-nAkwKeadua11LE5MIJCN3iHbpaAp-yJCfInsH0Tq65XHc21AKw4luLdfyN1Xp",
+                "original": "https://s.yimg.com/ny/api/res/1.2/h2.eiaCT_G9TArwE2X_cAA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM1Mg--/https://media.zenfs.com/en/nbc_today_217/de9d191e1b5b2d38408ad4008fc77400"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Tampa citrus farm shows significance of sanitizing crops",
+                    "snippet": "The CDC is reporting that there are currently 3 people sick with listeria in the state of Florida.",
+                    "publisher": "Bay News 9",
+                    "timestamp": "1700613000000",
+                    "newsUrl": "https://baynews9.com/fl/tampa/news/2023/11/21/tampa-area-citrus-farm-showcasing-importance-of-sanitizing-crops-as-listeria-outbreak-linked-to-california-farm",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/AGA5dp06uxTwp2T8VI0UcJRyqqPXlocoL0ZukBCBtKZGry_IFg36fXjWbmF7jSCrYsUchlcRDBEPhXxFD6rabctxr8oHBhkekUx4cTY4zvAmV929TlM9zCqFP2ppvKy3nfK8mJP6UJcXLkRRQw",
+                        "original": "https://s7d2.scene7.com/is/image/TWCNews/TheCitrusPlace?wid=1250&hei=703&$wide-bg$"
+                    }
+                },
+                {
+                    "title": "US issues nationwide alert as deadly outbreak linked to popular snack spreads",
+                    "snippet": "US has issued a nationwide alert as deadly listeria outbreak linked to a popular grocery store snack has spread rapidly. Read more below.",
+                    "publisher": "Hindustan Times",
+                    "timestamp": "1700582709000",
+                    "newsUrl": "https://www.hindustantimes.com/world-news/us-news/us-issues-nationwide-alert-as-deadly-outbreak-linked-to-popular-snacks-brand-spreads-101700576998969.html",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/VTXHiA_CcI9SLmxPYM1mdHjpecSCe3GUAbI0nD-emgTGI1JZctgmxnYHolgBd1vaGVd-pLXBu6a0KYuJuFbtXzaXPmrwz5dKk0SalOmBAw2kbwM4l0T3O2V7W2mrZZhyRf8k8KlqVwmshAqljmg4psliLv0aU8-8vl5r3UQXVtaGcNNps1EbBAPX4zSWw1kgqKdp_ps",
+                        "original": "https://www.hindustantimes.com/ht-img/img/2023/11/21/1600x900/Screenshot_2023-11-21_213217_1700582548293_1700582553628.png"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "See SpaceX's Starship ignite all 33 1st-stage engines in fiery test-flight photos",
+            "snippet": "SpaceX shared incredible photos from the second test flight of its Starship megarocket over the weekend, including views of its 33 first-stage engines ...",
+            "publisher": "Space.com",
+            "timestamp": "1700593231000",
+            "newsUrl": "https://www.space.com/spacex-starship-second-test-flight-engines-photos",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/KLPAA1gPYGRzC8JKw4k64IyQKkCJDObttKNyBlHVDUQyKBtohZesXV8FVQARwDeq3KOfutPr8D5aSE8c8iLlI_x6MyBlGCiVyfwn1xmBA5iOepNR8y7EMZ9wzN66E-c",
+                "original": "https://cdn.mos.cms.futurecdn.net/ZW6aFHbMYgrgQ6fe4Emnfn-1200-80.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Starship's 33 Engines Created The Mother Of All 'Shock Diamonds'",
+                    "snippet": "The exhaust from the massive cluster of Raptor engines in Starship's booster combined to create a gigantic 'shock diamond' during launch.",
+                    "publisher": "The War Zone",
+                    "timestamp": "1700530026000",
+                    "newsUrl": "https://www.thedrive.com/the-war-zone/starships-33-engines-created-the-mother-of-all-shock-diamonds",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/guidfg6X1YF6Eg6P3CO6NIPhGHpsCjXjO3Kqpb2C_MFIDF-lbXhUlFntA3tmErQsXH2aXWS3hQuVTqanZJ-k1kB5uxyCScXy7eAqOL-MN3PYJTM0GjTP7f4gJw5lEJKKEEqLarkzl3IRUFrrnYQv_kWWtzpLSN-1f17AvWhKB-Lp_mJTY5992qr8px5e22DqLBq6NLJwM86CmTGK7IpDwNs1lAknwQ",
+                        "original": "https://www.thedrive.com/uploads/2023/11/21/Shock-Diamond-Starship.jpg?auto=webp&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1440"
+                    }
+                },
+                {
+                    "title": "SpaceX\u2019s explosive test flight achieved key milestones. But there is still a long way to go",
+                    "snippet": "During SpaceX Starship's second test flight, the rocket booster exploded and the spacecraft was lost. Much was accomplished, but many key milestones remain.",
+                    "publisher": "CNN",
+                    "timestamp": "1700602560000",
+                    "newsUrl": "https://www.cnn.com/2023/11/21/world/spacex-nasa-starship-artemis-moon-lander-scn/index.html",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/1B-zuIsdQkSXDb_VuNUVcjwcTcXRcbYgV811SWPs5PIbTZOhUxCQocGMkuHIUy0AbEIfyw3cD3elZLqkrgQvN1SJl4tKZ7m7JZovs4LwSPOqa0Ev0aDehdKiWoExGCp4mqlUrpiipm_LY2TiU6GdaLDHbIIlc-LaZ_w_N97D72aDavn6gmiPIWzSzpL1mqfraA6hEFhZ23feELAGF7N6Feuk8AoIptCyyVvfn7yv3ygyApSezIHO2y_qHo2S",
+                        "original": "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-18t141649z-1449511690-rc2nf4ai2rln-rtrmadp-3-space-exploration-starship.jpg?c=16x9&q=h_720,w_1280,c_fill"
+                    }
+                },
+                {
+                    "title": "SpaceX Launch Damage to Land Was Minimal, But Crowds Left Marks",
+                    "snippet": "SpaceX's second test flight of its massive deep-space Starship rocket spread significantly less debris around the surrounding area than the vehicle's first ...",
+                    "publisher": "Bloomberg",
+                    "timestamp": "1700598639000",
+                    "newsUrl": "https://www.bloomberg.com/news/articles/2023-11-21/spacex-starship-launch-damage-to-land-was-minimal-but-crowds-left-marks",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/pMsUOsmk_ek9dQ0KjBYOBH5jpcDHd29pxoGkenKKIlrz5ZPIoIb9EO_FhaQTATVQZaXCRtgbycX4npyTDf3mpp2cmzWqKsaEJlvdnsnYcbXiGq4O1bMo10TyoaYRR122Pax63wWFcA",
+                        "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLTyf84t2FRw/v54/620x-1.jpg"
+                    }
+                },
+                {
+                    "title": "Starship Test 3 before Xmas?",
+                    "snippet": "Starship Test Flight Number 3 could be ready for launch this side of Christmas. The Federal Aviation Authority (FAA) is currently conducting its post-launch ...",
+                    "publisher": "Advanced Television",
+                    "timestamp": "1700561364000",
+                    "newsUrl": "https://advanced-television.com/2023/11/21/starship-test-3-before-xmas/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/TdjZxFg7xn_EuqidZMfVcO83DxkRSQyFUy5-kOoFxM0a0glm8oL2DBb-qzT_KO-ijKmi3IUur1W3k_SnlnRk23VMSAXR3ye_c9sJLChwl0f3lAwU-8Kkh1z1a4Xl0pZA_RGu9zTUcSmr",
+                        "original": "https://advanced-television.com/wp-content/uploads/2023/11/starship-launch.jpg"
+                    }
+                },
+                {
+                    "title": "SpaceX's Historic Launch: Megarocket Soars on Second Test Flight, Ends in Dramatic Super Heavy Explosion - Videos from The Weather Channel",
+                    "snippet": "Following the separation of stages, the Super Heavy booster of the rocket experienced an explosion, and the Starship upper-stage vehicle underwent ...",
+                    "publisher": "The Weather Channel",
+                    "timestamp": "1700545044000",
+                    "newsUrl": "https://weather.com/en-IN/india/videos/video/spacexs-historic-launch-megarocket-soars-on-second-test-flight-ends-in-dramatic",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/v1qzX0t5Qhgd8Z36B-ggWKS9Z4goLD9XZvqE_MSm0Hw9tASnXHYoyu1unNzjAI8OubuTp-MLcpkkzeovb3ZJTFhHrri_3GnvXC6OWFzITtBtcScLPJgdp2tTxb-ETj4HienNKCQ7QNJEBveJI178TzxZZb-HdJcs2P4mxJPLcCKHw8-8lUqitlDJSVCt74YWd_T5jyaV6LzvdZedDO8wmF4LIwZIVrtVeWyygG-Nv6YNMtEKowpYt9nXwaGthTgfjayPnVk",
+                        "original": "https://v.w-x.co/1700545033808_1118SpaceX2_1mezz_HighRes_avc_mpeg4_6000kbps_572794a8-b145-423b-af65-cfed4d577e70.jpg?crop=16:9&width=320&format=pjpg&auto=webp&quality=60"
+                    }
+                },
+                {
+                    "title": "A look back at the epic SpaceX Starship Integrated Flight Test 2",
+                    "snippet": "SpaceX has begun sharing some of the amazing imagery they captured during the 2nd flight of Starship. Here are some of the best shots.",
+                    "publisher": "TESLARATI",
+                    "timestamp": "1700590079000",
+                    "newsUrl": "https://www.teslarati.com/spacex-look-back-at-the-epic-starship-integrated-flight-test-2/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/mFDk-yxfoGJKVP06Igacl9GRxOboXS6ys1opD_SZ16LLqa1UHRMf6I_OYnrq3l0h9NqsbNJ64uI3yKYFbBKJzNzED_PwLHNK5dRBS70xOqoxAgrfSDp7RnyLqPMZPXMDhwujIZD7YLAZBg",
+                        "original": "https://www.teslarati.com/wp-content/uploads/2023/11/F_VbLfbbYAAj_Mn-scaled.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "TSA food rules: Security agency 'dishes' on what foods you can carry on planes",
+            "snippet": "The TSA wants you to know what Thanksgiving foods can fly with you and what you have to check.",
+            "publisher": "KABC-TV",
+            "timestamp": "1700591415000",
+            "newsUrl": "https://abc7.com/can-you-bring-food-through-tsa-thanksgiving-rules-packaged/14088409/",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/nAc-84oHT5xaQU0qpIZidPxjb7IKBH7wtUs5m7OeBlRhDR6Dh-M2pTqJCB5-A880CHr8-ksyxBS94cIe5Y9wFBy782mIZSbompEmVwcQgfnoQ_zQgHsH-KOzEoflgu-15-5qOrEL0Uo",
+                "original": "https://cdn.abcotvs.com/dip/images/14088459_112023-wpvi-travel-img.jpg?w=1600"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Lowe's bonds sell off along with stock after earnings come with a warning",
+            "snippet": "Lowe's bonds were under selling pressure on Tuesday after disappointing earnings and soft guidance.",
+            "publisher": "MarketWatch",
+            "timestamp": "1700589120000",
+            "newsUrl": "https://www.marketwatch.com/story/lowes-bonds-sell-off-along-with-stock-after-earnings-come-with-a-warning-c09d303a",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/jDWm-_4EjX8D45KSojWnURKExuHB1bRixFez59dyzE1Ut5XKSAyjYw2X159k5IyqVLJoVBV-Iw3ktI_Vs9YefNo9U5r_iFjj8Xc0iGnh2ss7KrU",
+                "original": "https://images.mktw.net/im-61114690?width=700&height=466"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "HP CEO says AI capabilities will 'double the growth of the PC category'",
+            "snippet": "HP Inc CEO Enrique Lores discussed how new computers with AI capabilities will help grow the PC market in an interview with CNBC's Jim Cramer.",
+            "publisher": "CNBC",
+            "timestamp": "1700609375000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/hp-ceo-says-ai-will-double-the-growth-of-the-pc-category.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/xu3RzdUUvpu5u4CZ6dPKNUnD52-ozBgrv_wiRRi9MiyBCuVumTkV3-XVyISYwCe5o83QuVhkGVg4HkHnPTASVg8NIV57QHXQZCONQ-_3OI_KePg2fqFS7UJQdJq6UKMR0ryUmzYwT6VLDJpog270CVsv81bcuE6x3ENc5ay6iQ",
+                "original": "https://image.cnbcfm.com/api/v1/image/106413278-1582808130935img_8790r.jpg?v=1685491075&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Salesforce CEO makes 'can't-miss' offer to OpenAI workers",
+            "snippet": "Mark Benioff made a play for OpenAI workers that won't be easy to ignore.",
+            "publisher": "TheStreet",
+            "timestamp": "1700526132000",
+            "newsUrl": "https://www.thestreet.com/technology/salesforce-ceo-makes-cant-miss-offer-to-openai-workers",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/c2o71lZ9N7mzP_X6bCvXXHQvB4sCzDEAS_kwjIMtlj8XzWFeGvZOZAMH-SopZ6h0TTWPeTr0K-_f6XRm8cw0dhzOprhK75iEn1ZMq66GE21F-N5bPYoR7YdomBsGnj9Xfeeb96WXLfk19tR63wkynanA153Uu_lYexzB9H_JTcyyvltNHLZrdOhdHqUZKJpXA91HL0recWLjuQZpdVJAasJP3tUVOMdtSgzgelSOCIk4vF9T3KWnN5kaWZq9yEI5TDpdTNiOXrfG5mhkAuv6AomASC6XzKrNSs-S",
+                "original": "https://www.thestreet.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY4NjM1ODQ0MzY5MzI4MDIz/salesforcecoms-marc-benioff-is-one-of-jim-cramers-bankable-ceos.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Best Buy stock drops as it posts broad sales decline for Q3",
+            "snippet": "Sales of appliances, consumer electronics, computing, and mobile phones all came in lower, but the company saw strength in its entertainment products.",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1700586677000",
+            "newsUrl": "https://finance.yahoo.com/news/best-buy-stock-drops-as-it-posts-broad-sales-decline-for-q3-125141935.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/Ky5NYTT1AEcD1AC13L_GVa_pqmPL1SuR8axCwyJHESm_jlQDp4z-IF-nsSLyNbT8YlTDf-WhjPQT21OyqcgYIIScpCcXwaYzulazGUFTcgM8wNq5D_vtq8B8rMaBUiAhK0uqaEKGcncnemOiLRjp883EZB6A1nTgMhfyP5kCtLIK9QHdb20C1RH96dI33_XyXZ3YKLtAsa203UyYKdVSGuC9fxvtRKGsVBBOWWL1v5BuJZLpALk4ch7VhFwCszMhFK0kPfJat9NqUNHkLOcsvRwk-iaEaC6Hdw",
+                "original": "https://s.yimg.com/ny/api/res/1.2/wFymT6rzwS3px2fYvEVXkA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/99c4be60-6f87-11ee-9b87-cb72448acf3f"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Central banks are cutting interest rates at fastest clip in years. When will the Fed join them?",
+            "snippet": "Investors have been waiting for central banks to start cutting interest rates since the Federal Reserve delivered its first rate hike of the cycle in March.",
+            "publisher": "MarketWatch",
+            "timestamp": "1700592120000",
+            "newsUrl": "https://www.marketwatch.com/story/central-banks-are-cutting-interest-rates-at-fastest-clip-in-years-when-will-the-fed-join-them-d77bb91a",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/NRIGU_chpM3iRNBRnfj70ZQ9or29ocjSXF1euaSUayDHPYesM2mRtv26cse1wM4lgJBIWqUHZ5RaLIKQft-MMHy1HP_C5HJDg5sLTl9t",
+                "original": "https://images.mktw.net/im-250324?width=1280&size=1"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "How Much Do You Know About Online-Shopping Scams?",
+            "snippet": "The holiday season is upon us, and for many people that means more online shopping. It also means more online-shopping scams.",
+            "publisher": "The Wall Street Journal",
+            "timestamp": "1700618400000",
+            "newsUrl": "https://www.wsj.com/tech/cybersecurity/online-shopping-scam-quiz-cca9530f",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/wCs1l1e7KRMrgTyRiP8RShFOUdjXuCMF8qUywVjTxuaOq7CJ5tUGnyYffTNkaF1sOTX9gI98wo1CrCpRlz_SZQdSiarsUTI6CeaVIRm9yY4",
+                "original": "https://images.wsj.net/im-889504?width=700&height=467"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "How to Avoid Black Friday and Cyber Monday Scams",
+                    "snippet": "This holiday season, make sure you're only getting ripped off by corporate America, not cybercriminals.",
+                    "publisher": "Gizmodo",
+                    "timestamp": "1700591700000",
+                    "newsUrl": "https://gizmodo.com/avoid-scams-online-shopping-cyber-monday-black-friday-1851035973",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/CqjP4Lgsmx2b-VLmecAqWnV_OAb-PvBidIXxqqGcaSULkL7CffkW-4Ww-zsPEzYPcKopAfzJGHIeGXYgD2WPwzYgOHxvuwqHwWInnu0CjbG6qZgC5go9SMYXl2Bs1bth62c3tMAqwfcpl5yMkeHWNIJ9rJZf",
+                        "original": "https://i.kinja-img.com/image/upload/c_fit,q_60,w_645/5d2669609a0561b95fbdc7a97dcd78f8.jpg"
+                    }
+                },
+                {
+                    "title": "Black Friday sale: Researchers have a 'warning' for you",
+                    "snippet": "Kaspersky has released a report highlighting the rise in cyber threats during the Black Friday sale season. The report reveals that over 13 million e-",
+                    "publisher": "Times of India",
+                    "timestamp": "1700565660000",
+                    "newsUrl": "https://timesofindia.indiatimes.com/gadgets-news/black-friday-sale-researchers-have-a-warning-for-you/articleshow/105387423.cms",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/PWP1Pao7f5FNd836NFjfvIUc57pyObJNyIKtKP9wVR8vks6JiesRq4TzSOquc0dfKlnplQBcivQDHPN9NkBeJtVuDAt3NXtcUaLZagObyJsBMc1e_09it8pyT1JEF--cbWtp66D0NtYhyux7S51qPg-GX-xKwQbOp1A",
+                        "original": "https://static.toiimg.com/thumb/msid-105387423,width-1280,height-720,resizemode-4/105387423.jpg"
+                    }
+                },
+                {
+                    "title": "Scam alert! Shopping season means scammers",
+                    "snippet": "If you shop online for gifts or other items, you are the target of online scammers who rake in $-billions every year by ripping off people who think they ...",
+                    "publisher": "WETM - MyTwinTiers.com",
+                    "timestamp": "1700583474000",
+                    "newsUrl": "https://www.mytwintiers.com/news-cat/scam-alert-shopping-season-means-scammers/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/5995346rHHFOB-7C_0bSoEGgi-NKjcP_c8P2QRs2Jx7CAKKS6wVmEQk6A2iKfficW_6ernl1LtFiAE6_5LnqvdmrChyHk3We0Uw7yzfJ-T0FxcEjc127J9vEurbpyOnDr8Znnz7p7MP9AM8",
+                        "original": "https://www.mytwintiers.com/wp-content/uploads/sites/89/2022/07/scam.jpg?strip=1"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Top CD Rates Today: New 6% Offer Jumps Into the National Lead",
+            "snippet": "Today's best nationwide CD rates are 6.00% from SecurityPlus Federal Credit Union and 5.80% from Seattle Bank, with a top rate of 5.85% available on the ...",
+            "publisher": "Investopedia",
+            "timestamp": "1700521657000",
+            "newsUrl": "https://www.investopedia.com/top-cd-rates-today-new-6-offer-jumps-into-the-national-lead-8405135",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/8o1Lf2Ftx0WyTnuKvD2PqbxN66ZXxgtBaJW4ydNYFIV0pUh_zbpN_ZLk5qI8I1A-v8lgTmEH05Gdfz68i2PA2cCN7e8XeY3CspN4uRxK0ggxzbedobnR9ipUniEiqDFlLRa6KQIjoZfgpY5oU8RLCcopkSkpmpWi-YPxwM6bqgQBOCw_m-0r5pbSog4aGGO_cDTkC-Bpg2RnFmmuOa04zhZDkMAlaDhIb_sQeCYswBbhCOpzhNxz7ncd4CFBzSc",
+                "original": "https://www.investopedia.com/thmb/v82_5n3TcFnRUlTCCYnssUi8ZDk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11.20-d7b85251d6d541c2a977d3539b7a1f39.png"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Cruise Hired Lobbyist Close to Newsom. Then a Crash Changed Everything",
+            "snippet": "How was Cruise able to expand so quickly? Records show the robotaxi firm hired a lobbyist close to Gov. Gavin Newsom.",
+            "publisher": "The San Francisco Standard",
+            "timestamp": "1700582850000",
+            "newsUrl": "https://sfstandard.com/2023/11/21/cruise-san-francisco-crash-lobbyist-gavin-newsom/",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/usjbIfYfbczzkp4-cM3hLZtZiCSiCqlJb9N8ifaiyiRxQdInfcUHZreaOkO1_dAhdwIwZLP_nxlgLD31K8vvAclTgFADwwHskUcE9shrdc3EIhER8c-5Xs5Pofw0FoLsf6vtCgHhR5RsQMN1YmiFJ_VUIQ",
+                "original": "https://content.sfstandard.com/wp-content/uploads/2023/11/20232011cruisefallout-01-2.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Cruise's CEO and product chief both quit",
+                    "snippet": "Cruise has lost two of its senior staff just weeks after the company was forced to stop its robotaxi service in California after the state's DMV determined ...",
+                    "publisher": "Motor Authority",
+                    "timestamp": "1700575200000",
+                    "newsUrl": "https://www.motorauthority.com/news/1141508_cruise-s-ceo-and-product-chief-both-quit",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/8J63TwWPYKCkwGZ7pWqYXJHrt4knAhW5q1G2woKAi0Pozu8h8DNhnB_L1uGq8P1kB3_5fOtVMC6uMEU7B2t6BwCeOlIuRDcfj6S6CZtuOotsALW-5XvSFLW4YnDe4TE9E9yq9SvphTcO40Qx",
+                        "original": "https://images.hgmsites.net/hug/cruise-self-driving-car-prototype_100777355_h.jpg"
+                    }
+                },
+                {
+                    "title": "Cruise co-founder resigns day after CEO steps down following safety concerns",
+                    "snippet": "Kyle Vogt stepped down as Cruise faced safety concerns and recalls of all 950 of its vehicles to update software. Cofounder Dan Kan resigned less than 24 ...",
+                    "publisher": "KVUE.com",
+                    "timestamp": "1700577902000",
+                    "newsUrl": "https://www.kvue.com/article/news/local/cruise-ceo-kyle-vogt-cofounder-dan-kan-resign-safety-concerns-recall/269-59b12b7b-fc5b-4df2-ab89-7f870641125c",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/jGg9Yl5Hvdknyryn01PTYAtxZzfYWBrZOek36V52KukPTnir1rdeRwrIBuxQf7-acnBI82NPuwIyBl8QhzFKSBSJVyY486BTJujsnf75OcDMMULy50uxNtdBJFbcJu2q4NA1hslA91AYwT3B1gAsJxb-fKyEOJ34XrHPXPJm2M3hz_hRYpBti3t2YaJ9wqtYCvBRk_Jxp5GuCA",
+                        "original": "https://media.kvue.com/assets/KVUE/images/e812d68f-b38b-4eef-a3ff-8fa3c0f51dc6/e812d68f-b38b-4eef-a3ff-8fa3c0f51dc6_750x422.jpg"
+                    }
+                },
+                {
+                    "title": "How Cruise CEO's resignation affects its robotaxis on SF streets",
+                    "snippet": "\u200b\u200bThe resignation of Cruise CEO Kyle Vogt and another co-founder of the autonomous vehicle company in recent days is yet another fallen domino stemming from ...",
+                    "publisher": "San Francisco Chronicle",
+                    "timestamp": "1700568062000",
+                    "newsUrl": "https://www.sfchronicle.com/sf/article/cruise-ceo-resignation-robotaxis-18504254.php",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/CnhgPTN6Coywj3TbPxbqaWTMN5sb8hA-yWuvatNSztBMETyn9xvN3n6TE365jo9Kh_FedffzpEJapdJlj6nC4Y3_iwz6FdThQB97pAdxl6rzhZbn3qBw",
+                        "original": "https://s.hdnux.com/photos/01/35/26/21/24470651/3/1200x0.jpg"
+                    }
+                },
+                {
+                    "title": "Cruise woes claim CEO, drive shakeup, but GM still believes in self-driving technology",
+                    "snippet": "The wheels are wobbling at Cruise LLC, the Silicon Valley self-driving car unit owned by General Motors Co. As the Detroit automaker's $8 billion in losses ...",
+                    "publisher": "Detroit News",
+                    "timestamp": "1700539567000",
+                    "newsUrl": "https://www.detroitnews.com/story/business/autos/general-motors/2023/11/20/cruise-woes-claim-ceo-drive-shakeup-but-gm-still-touts-self-driving-tech/71654392007/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/-FSqvy12nmZyWlEFCUhCCzBtlLLnpWVs2u8A1SRnSwkg7bDHnwYTWc5UWcwwOUl47YYS5YJhZSXcTnxC85QtgXtE8lGfAZt7tMg9giSKIbMXJQUlbbYc4Te6ODTtA9rqLLvrKexsTEoo69KdfjffzWccpOEtkBCt1HFdTDyxqN5R37svpmX5MYPNFIVQtET3-Wud6XGHAmXDgKEDXKaovj2cUw1RBKX14e9GScdglBU7W-dMg1L2dPvzi5BZlFXwZ739HI560WFUSn2LQwMLQDxEc-VF5ljMlHxnbO6xnjLQxeXV9dDb9gnyap1NukVGHOLPFpOCPyL0wXZm_xNS8s7OzO-G17iWmIfUuHCtajQbdsqcdoMk4oE",
+                        "original": "https://www.detroitnews.com/gcdn/presto/2020/05/14/PDTN/a795dfb6-5457-4ca0-81f6-d2737b3c903f-TDNBrd_DETROIT_02-28-2020_TDNXX_1_A011__2020_02_27_IMG_Tdndc5_6ykieuy6nf511_1_1_6G2PJ2HJ_L80265706_IMG_Tdndc5_6ykieuy6nf511_1_1_6G2PJ2HJ.jpg?crop=1608,905,x0,y0"
+                    }
+                },
+                {
+                    "title": "General Motors CEO Mary Barra Tries To Reassure Cruise Staff After Cofounders' Resignations",
+                    "snippet": "In an all-hands video conference call to Cruise staff on Monday afternoon, General Motors CEO Mary Barra attempted to re-energize the staff of Cruise, ...",
+                    "publisher": "Forbes",
+                    "timestamp": "1700520125000",
+                    "newsUrl": "https://www.forbes.com/sites/cyrusfarivar/2023/11/20/general-motors-ceo-mary-barra-tries-to-reassure-cruise-staff-after-cofounders-resignations/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/dsqyFVG-zFEhcQDpq4Baxz1d48sMKVHb__WKWAopMliIZ2YJlynT747xvEW2hNGGPebvR7bVk31GXm_VSz1OPFvIxphLJhfaoGlPsBZPEYBLGMq86cw9-wyE97mWG87AV9oMDJv5alOLCc3MCFzVGTCFsQWVRBntNjj2Oa4ZuNGjXnghgk2CeFN4PS5ojfOxKpyKd3JNbaDk3xOa",
+                        "original": "https://imageio.forbes.com/specials-images/imageserve/655be02c45bd29871fcd475e/GM-CEO-Mary-Barra/1960x0.jpg?format=jpg&width=960"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Warren Buffett makes big donation before Thanksgiving, assures shareholders Berkshire is built to last",
+            "snippet": "Warren Buffett donated more than $870 million in Berkshire Hathaway stock to four family foundations before Thanksgiving.",
+            "publisher": "CNBC",
+            "timestamp": "1700611077000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/warren-buffett-makes-big-donation-before-thanksgiving-says-berkshire-is-built-to-last.html",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/6r6UtCiP5ZJEVkrPAyKmHiahC806tY4NzX3w_sI2wWrKpEoZy_tfncYXBvn4VdY5pG6CqTOxQGjvBszCBL1kAdDVNOZ9V_KUj35N42EDTDhH3omyR8deYvkwtyF0m0YtziFTY6k6LtZgyxMWxPuX0nlK2ExXqYj2hDK8AA1oRVbP4B050djI",
+                "original": "https://image.cnbcfm.com/api/v1/image/107236960-1683387197069-AP23124749905653.jpg?v=1692045052&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Sarah Silverman Hits Stumbling Block in AI Copyright Infringement Lawsuit Against Meta",
+            "snippet": "The ruling builds upon findings from another federal judge overseeing a lawsuit against AI art generators.",
+            "publisher": "Hollywood Reporter",
+            "timestamp": "1700597414000",
+            "newsUrl": "https://www.hollywoodreporter.com/business/business-news/sarah-silverman-lawsuit-ai-meta-1235669403/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/YzCbxbmdq5GS1KctWd4G6wTcrRd2lt2sHWWdtIwlniEiGSP4EX7iTaNFZ3ojqQL4Zb931okaw7F7MWYHN4XCQBEj2zR6a9PO02BJ5sgtUokhKtz5cU7D38gEzuKIEPIfMVX3UyhV824y-MLcLhDwc1b_sHYAUX8eVtQ6nI19n2wArRU7doxa3f6jAob0ymVaLyJHt8mtlbriiAO_4Q",
+                "original": "https://www.hollywoodreporter.com/wp-content/uploads/2023/11/Sarah-Silverman-Tony-Awards-Carpet-GettyImages-1241277641-H-2023.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "UAW announces ratification of sellout contracts at the Big Three: The way forward for autoworkers",
+            "snippet": "Despite the claims by UAW President Fain and the Biden administration that the contracts are \u201chistoric,\u201d there was widespread opposition among workers, ...",
+            "publisher": "WSWS",
+            "timestamp": "1700542221000",
+            "newsUrl": "https://www.wsws.org/en/articles/2023/11/21/nywg-n21.html",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/DpbCZC0s6h-zSxU-3BVLZoeWhGm4LokcQdlV72ucvfGZPh9G_sKT4tJG074Ifb-9Ixkb-7F3wh9ku3c9ajZBYei-Etyl9wVcPL9kt6uq4rLbpd0YxMmMnGb8V0BFCNGs-Pi0RD-o5a8JYn8XqDw",
+                "original": "https://www.wsws.org/asset/1691b0c8-c061-4ddc-a5d2-1f97af23ad11?rendition=image1280"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "GM to hold Nov. 29 business update after UAW contract deal",
+                    "snippet": "Nov 21 (Reuters) - General Motors (GM.N) said on Tuesday it will give a Nov. 29 business update following the ratification of new labor agreements in the ...",
+                    "publisher": "Reuters",
+                    "timestamp": "1700594880000",
+                    "newsUrl": "https://www.reuters.com/business/autos-transportation/gm-hold-nov-29-business-update-after-uaw-contract-deal-2023-11-21/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/U2-srF7CUJji-61eAqjvG_mXfsQiQW0P7_HJUa9ZPm5pCnlyKOxJP7G_0JR8ExvSSrdFKXhUdY3GtmOYIMDVGbYU3qsrygYbOmycVEfOd_Veil0lZ1sxqMbto1wGRda92VzWYUF18bDhp-Qk37DjPwUUX1Nd4vI",
+                        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P5CI5LTYQNNLXKYQ4DQTPKQD6Q.jpg"
+                    }
+                },
+                {
+                    "title": "Opinion: UAW deal shows path forward for workers and climate",
+                    "snippet": "The United Auto Workers are ratifying contracts with a key win for both workers' rights and the environment. While wage and cost of living increases ...",
+                    "publisher": "Detroit News",
+                    "timestamp": "1700528635000",
+                    "newsUrl": "https://www.detroitnews.com/story/opinion/2023/11/20/opinion-uaw-deal-shows-path-forward-for-workers-and-climate/71648368007/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/UB57dNY1j9UoXG7YpHrHZxpfcC82jBPsF6GjHOZyoDyl7ncfIeH091pmRo87Ps028fSZqCERjusao3tGYNLMA245ySmBf9tu0Oxu-IUW_W0pe-o1WWh3_E5atwsFOhhoWfdCeudv0UUeGUWs_K3yYUQuhh4xWxBshiNJgqwJgdne5iSkH5gVa_tn-RNkXyl0kgQ8XzD9xichyA1HVIc3Jx6iBLHOuhJaENPjEhPZBnaRXRlAMUHgS_BJgCw",
+                        "original": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2023/10/16/PDTN/71202624007-ap-23102015614330-1.jpg?width=1200&disable=upscale&format=pjpg&auto=webp"
+                    }
+                },
+                {
+                    "title": "The Successful UAW Strike Portends A Successful EV Transition",
+                    "snippet": "When the United Auto Workers (UAW) started its strike against Ford, GM, and Stellantis earlier this year, a grim storyline took shape in the press: This ...",
+                    "publisher": "CleanTechnica",
+                    "timestamp": "1700542394000",
+                    "newsUrl": "https://cleantechnica.com/2023/11/20/the-successful-uaw-strike-portends-a-successful-ev-transition/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/hmSMigsokmA67BH7iux9bCRA9WVie4Yzwv4Xal9GujO7vFamaJ0IgZLj1eiAafZhZRnv6rZ68TEUt0Nk8t4r8KP7IsLB6j_guULJ0RUC5Z6RaR70K7Iv0NusuiAqdQ1xP4NG64BpojiP6fW1CHtatH7t6R36iRHZimZwBTnjqW54jZIMENP-iw",
+                        "original": "https://cleantechnica.com/wp-content/uploads/2023/11/Ford-Rouge-Electric-Vehicle-Center_15_-Jaylin-Jones.webp"
+                    }
+                },
+                {
+                    "title": "UAW clinches record Detroit deals, turns to organizing Tesla, foreign automakers",
+                    "snippet": "The United Auto Workers (UAW) said Monday that 64% of workers at the Detroit Three automakers voted to ratify new record contracts after a six-week targeted ...",
+                    "publisher": "ETAuto",
+                    "timestamp": "1700543084000",
+                    "newsUrl": "https://auto.economictimes.indiatimes.com/news/industry/uaw-clinches-record-detroit-deals-turns-to-organizing-tesla-foreign-automakers/105374390",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/-dcWUNL43bUDty9LdsGXKQeCNbA2cH0ZbfQPHvqYpHkz5Btx2PnL4YXpRRvvzfP94DZnXXtSeEMFnySV_lPFp-_PAIUb5G19cEkp5OrSePfeAauwJP3Yu4YYWl3hSScgJyre1q20FL1AZs0HtNh6zEvy",
+                        "original": "https://etimg.etb2bimg.com/thumb/msid-105374390,width-1200,height-900,resizemode-4/.jpg"
+                    }
+                },
+                {
+                    "title": "Why The Detroit 3\u2019s UAW Contracts Won\u2019t Mean Higher Car Prices For Consumers",
+                    "snippet": "Labor prices aren't the biggest factor influencing the cost of vehicle manufacturing, so the UAW's blockbuster contracts are unlikely to affect MSRPs.",
+                    "publisher": "CarScoops",
+                    "timestamp": "1700522585000",
+                    "newsUrl": "https://www.carscoops.com/2023/11/why-the-detroit-3s-uaw-contracts-wont-mean-higher-car-prices-for-consumers/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/za7Wf-mCw6nOLmNr-vtqLGx5FwTiP6BUlJ4m2z_Y9EtHzxXb1PePecJNt5WEcbS1nJZo1wr2j7HFUz4me_xDn20gfRdu91r-mP8RS-oephnyQ268vrUmqHeKfyRsu90FBqVJ",
+                        "original": "https://www.carscoops.com/wp-content/uploads/2023/11/2023-UAW-Strike.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "AMC stock falls 8%, on pace for biggest daily percentage decline since Nov. 9",
+            "snippet": "Shares of AMC Entertainment Holdings Inc. fell 8% Tuesday, putting the stock on pace for its biggest daily percentage decline since Nov.",
+            "publisher": "MarketWatch",
+            "timestamp": "1700589000000",
+            "newsUrl": "https://www.marketwatch.com/story/amcs-stock-falls-8-putting-it-on-pace-for-biggest-daily-percentage-decline-in-almost-two-weeks-fe743845",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/m4VvX12UFXFqPadITzyeBrjQHJJA4nMwBvhM50foeGB4BasNHG8Ybqz3u-I_hTWPGXlSFmY_e41eHpc-kGuRJi2zNbAhUDUSOfvpPeRhgWg",
+                "original": "https://images.mktw.net/im-82220415?width=1280&size=1"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Retirees face significantly higher Medicare Part D prescription drug premiums in 2024. What to know",
+            "snippet": "As a new law limiting Medicare's out of pocket prescription drug costs gets phased in, retirees will see rising premiums next year.",
+            "publisher": "CNBC",
+            "timestamp": "1700598707000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/retirees-face-significantly-higher-medicare-part-d-drug-costs-in-2024.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/toikt6I7TYBGYSsrnmwOuCoKCkJuXRXYEd4U4ZRiF_W7tOCe7Vcl9-sw4Hh1BZ__XwnLJ9D8AL0eZR75zvRnzqr9Poqbpuq0-1QaeZ13o9UzvdGY0rY4Xl1NCVj6_s1VetnnBu98mryyRmcHYmO_pt_j51ZrzianDJCl1M6AQHLe7FMYqMWl2RaT9PW4OSUaowsY7AzXbZ9mteKhSg",
+                "original": "https://image.cnbcfm.com/api/v1/image/107322379-1698162061101-gettyimages-1401597823-medicalappt_5.jpeg?v=1700589699&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Why Nissan, Toyota workers can 'thank' the UAW for pay hikes",
+            "snippet": "United Auto Workers president Shawn Fain calls it the \u201cUAW bump,\" in which non-union auto workers are seemingly getting pay hikes thanks to the UAW's ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1700597925000",
+            "newsUrl": "https://finance.yahoo.com/news/why-nissan-toyota-workers-can-thank-the-uaw-for-pay-hikes-201845833.html",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/sKG0UKGUjpAAB9ovu-EP6ujlWY5XUdmhhShhd93HhmtVmkAMBQ3MV7aKztg-VShq1vlHri6JKcYauU-fuPGBXrvb0kWHPMEcN_Zqje1RSnngbVxQdBhtVeq4EAGfBIfgAnk8m9HBzat_gAKs1wtm0sy6E7Ybw0WRFsrLrO4bOXCpEAfJXNadFiF1guNklk3N9fkuW5IJXdtWARFYaOb_QVlIaNzCIlHealT8ncEvTKW9l3xvvfOVUAb8WUk_wpn-JWAgk4_ACQHOW_-aiFXjXZq0NpPLgJxEig",
+                "original": "https://s.yimg.com/ny/api/res/1.2/DA_v9mkLJVS.ozK46PRaJw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e695a4d0-849e-11ee-ac7f-819c74ec2c99"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Here's how much \u2014 or little \u2014 the typical American has in a 401(k)",
+            "snippet": "Recent data on how much money people have tucked away in their 401(k) plans highlights just how far most Americans have to go to reach their retirement ...",
+            "publisher": "CBS News",
+            "timestamp": "1700607480000",
+            "newsUrl": "https://www.cbsnews.com/news/american-retirement-account-balance-generation-fidelity/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/k8kxMeYcu0Zbxp0jOzaPVIs_vgR_Kv_54Xv7YjuLlz1kJTEsy0fNw5myDKJTWabP8J8_qais-6D10vE9LKjq-QDDoDJvoqRm_05OXWODDVapxQkEL8NoRHw_9vCzRL5GXRVpURYCAD9fbXk1ko_M3uVDHggMEbGd4QTQrFixTxfByoS5nD_82bax2mklLYNwfOj2Vv_YRC2crg2GrigWWFgr3vRKX4SVpMn8kzrtYlQO7FlGDXhZo0i5y-Hd7zEJFzKn2KUJdNfucgCEDKbJBvlPj8dBi5iQseqtiLbSJfJyW66xGg",
+                "original": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/21/3c2fed89-5a71-4f05-891a-fb10f1735ed5/thumbnail/1200x630/0b17217ab0e8a226482e6860ded7ac27/gettyimages-91509203.jpg?v=5659e73acd91751548aa89950cf015b0"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Millennials need $525K a year to 'feel happy' while baby boomers content with $124K: poll",
+            "snippet": "Roughly 60% of Americans believe money can buy happiness -- though the price tag to achieve joy varies greatly between generations, according to a new poll ...",
+            "publisher": "New York Post ",
+            "timestamp": "1700594760000",
+            "newsUrl": "https://nypost.com/2023/11/21/business/millennials-need-525k-per-year-to-be-happy-baby-boomers-content-with-124k-poll/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/ANOo8CrXKBVNkzUs33CF3apRUZoYxH1SJfZi5_APUeimU-ZPJbFoZL1oe9cGHy645_ygF4vEL8r3c1FS4rzEfoEU9C-Fp1d3I9HRwpVty86tBW8jAaDpcaP7xKtegVFivW8LF-jeJvfA0nibZHS5_3Fi0mTVSICaQ0o5021Wl9vw3-wy6IcmJ8Xvz_h-ngnVbui_Rto",
+                "original": "https://nypost.com/wp-content/uploads/sites/2/2023/11/525k-salary-feel-happy-baby-72668833.jpg?quality=75&strip=all&w=1200"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "More free COVID-19 tests from the government available for home delivery",
+            "snippet": "Anyone who did not order a batch of four COVID-19 tests in September can secure up to eight of them this time around starting Monday at COVIDtests.gov.",
+            "publisher": "The Dallas Morning News",
+            "timestamp": "1700578731000",
+            "newsUrl": "https://www.dallasnews.com/news/public-health/2023/11/21/more-free-covid-19-tests-from-the-government-available-for-home-delivery/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/wjYHgFv1EqQ97HZTt33EVn35s9OAQmaOwcvez_GH1XwGAYf_woGryzt3TfohGnxJ6v1gJWqLpZ2-0Gy3de64MJyVIxd44uXiwskvFWvkNE97HxFm-yXP_FZK4O1ZXCHmR2Wx0kEv9L3VTIyCaD0LVlXLdPeuR_LPow7lbskK9PkfjFKLwq-aJLakC0WvxaDLckuWpe8KqpcobyRtxFpwzQ19dH36fpUuk2s3zp2UtMtUHJ3g6udhyLTVp_vwWt405rB3wV7txVZfT8-eLkIs8htavmJPQOGtaHdZrepdmPAdA9V86LvB",
+                "original": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/nFD5ioqnH9yuJsBEP9kLrowKhmc=/830x467/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/TJ2VRPNZVMYRMM5KDRVB73TE6E.jpg"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Offer available for free at-home covid tests (Details inside)",
+                    "snippet": "The federal government is offering an opportunity to order more rapid at-home covid tests, according to a report. The Department of Health and Human ...",
+                    "publisher": "Cortland Voice",
+                    "timestamp": "1700577616000",
+                    "newsUrl": "https://cortlandvoice.com/2023/11/21/offer-available-for-free-at-home-covid-tests-details-inside/",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/rRFa7UL3tW4xLzPE1YUDz1liQBjJQFIpR3qePyas6zwyZ0V9QTX3mB_-LCW1zP-JzSphY36nCOvSbyz4DIJSnBnIi0JzKWTaH3y_8LK2MmHCNUZeLUT3zFPJTVWB1ejw-cGK1w",
+                        "original": "https://cdn.cortlandvoice.com/wp-content/uploads/2023/11/1-4-1024x683.jpg"
+                    }
+                },
+                {
+                    "title": "COVID-19: More Free At-Home Tests Now Available To US Households",
+                    "snippet": "The federal program offering free COVID-19 rapid at-home tests through the mail has just been restarted ahead of the winter holiday season and a potential ...",
+                    "publisher": "Daily Voice",
+                    "timestamp": "1700491146000",
+                    "newsUrl": "https://dailyvoice.com/new-york/whiteplains/covid-19-more-free-at-home-tests-now-available-to-us-households/",
+                    "images": {
+                        "thumbnail": "https://lh3.googleusercontent.com/proxy/nVokDWeZn5JrWu-obFXx0V9PAsol-Q2Zd3YhrNzNoln-GK8tHS84pP0KTemQOb0Q-6pHvsf5LhwDMARYYZ5FN34LTlbhZJXPe4EwXQ6hZN2G00ltgAN0FFl1hXmj_fn01Mvox-kXymqobKo7Ejh9NBsz9ao",
+                        "original": "https://cdn.dailyvoice.com/image/upload/dpr_2,f_auto,q_auto:eco,w_360/IMG_1829_tbxko6.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "SEC sues Kraken, sparking renewed calls for congressional action on crypto",
+            "snippet": "The Securities and Exchange Commission (SEC) sued Kraken on Monday evening, accusing one of the world's largest cryptocurrency exchanges of illegally ...",
+            "publisher": "The Hill",
+            "timestamp": "1700586840000",
+            "newsUrl": "https://thehill.com/business/4320835-sec-kraken-crypto-regulation-blockchain/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/pzJDIf8fXENr2UgWsymsksUbCgyM2eORcpTFmsK9X_BwmfhN2RYgcG-O7kZRoIiGbne00WbxkU7Pqr-GJqLQpMGbqZbdZFVvbTxdQMZ_PB1mYUUGh8VGIm5irKJALipT426zc-hxaUaPGxPN6HRZfnBaPezP7g",
+                "original": "https://thehill.com/wp-content/uploads/sites/2/2022/09/lummiscynthia_090822gn_w.jpg?strip=1"
+            },
+            "hasSubnews": true,
+            "subnews": [
+                {
+                    "title": "Bitcoin Steady After SEC Sues Kraken. The Crypto Exchange Crackdown Continues.",
+                    "snippet": "The Securities and Exchange Commission sued cryptocurrency exchange Kraken on Monday, the latest move in a U.S. regulatory crackdown on crypto.",
+                    "publisher": "Barron's",
+                    "timestamp": "1700576280000",
+                    "newsUrl": "https://www.barrons.com/articles/bitcoin-ethereum-price-crypto-market-today-kraken-sec-743fcd29",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/wakvxdLaY99o8cKd9p8zp5LQZFJhbSallbmC8G9-AVSCWxaoFAF2sADHO_yB-ieqklRO7nERX7zrC8Z-nBQyawnjhR_QFYwNzRMaLXga-TjB",
+                        "original": "https://images.barrons.com/im-821052?width=1280&size=1"
+                    }
+                },
+                {
+                    "title": "Bitcoin, Ethereum, Dogecoin Mixed After SEC Sues Kraken: Analyst Warns Historical Data Suggests Possible",
+                    "snippet": "Major cryptocurrencies traded in a mixed manner on Monday evening, as there is an ongoing concern about the future of the world's largest crypto exchange ...",
+                    "publisher": "Benzinga",
+                    "timestamp": "1700535924000",
+                    "newsUrl": "https://www.benzinga.com/markets/cryptocurrency/23/11/35886738/bitcoin-ethereum-dogecoin-mixed-after-sec-sues-kraken-analyst-warns-historical-data-sugges",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/CL-cnl9sscbOZ5DKcx17fBjKvOC75OZgqFmsR12YZaMS4OPIA8tsO11rLVfVLSZ0-43XG5Efdey8zQ_MSOTcDKMjWNU4UeRNwrHf1zxsUXYsOQF5W9DRd79VdUjxTEcjKvWwYybM1thV4qhotWJCD0nXH5HxYmCLFMA66oImgHfqQTX4BOxtj_Xx7n1Jd1SSc5rQwtr3zIA",
+                        "original": "https://cdn.benzinga.com/files/images/story/2023/Cryptocurrency-Photo-by-Lloyd-Landicho-o.jpeg?width=1200&height=800&fit=crop"
+                    }
+                },
+                {
+                    "title": "Bullish or bearish? A wild 24 hours for crypto exchanges",
+                    "snippet": "Monday developments reaffirmed the US as unfriendly to crypto while also offering a potential bullish outlook for segment firms, industry watchers say.",
+                    "publisher": "Blockworks",
+                    "timestamp": "1700587513000",
+                    "newsUrl": "https://blockworks.co/news/wild-day-for-crypto-exchanges",
+                    "images": {
+                        "thumbnail": "https://lh4.googleusercontent.com/proxy/wiDaC2nMl9HxEkkfNMj888AtX4ADW8ySkJnYWmRJ44JnNfMBAFWPFp8g7c_xYIN7_4LL-hm5icUPgqeGqmWrn6s-__IeDt39ET5icyiGC6JdEbyzE5M9uV-jNA3Q8LNLAnhu3HwGR9WUDcAWMa6hdsGss6pc2nZaEVj_cEXEqo5CtKKIB_amrV30pOTatM_3sbKQcgUGmwlL5HJowesx064KfnFxPNRyg0mT9zvA2fXzfcLPAPsw",
+                        "original": "https://blockworks.co/_next/image?url=https://blockworks-co.imgix.net/wp-content/uploads/2023/11/Brian-Armstrong-dark-background.jpg&w=1920&q=75&webp=false"
+                    }
+                },
+                {
+                    "title": "\u2018They\u2019re Playing a Game\u2019: What New Yorkers Think of the SEC\u2019s War Against Crypto",
+                    "snippet": "After the Securities and Exchange Commission sued Kraken, a small but trusted exchange, CoinDesk asked passersby for their views on crypto and regulation.",
+                    "publisher": "CoinDesk",
+                    "timestamp": "1700591280000",
+                    "newsUrl": "https://www.coindesk.com/consensus-magazine/2023/11/21/theyre-playing-a-game-what-new-yorkers-think-of-the-secs-war-against-crypto/",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/-PQ9WfrUIES_UrHd0jy2tGe17g2R0QPjd6wdCtPlKolsBglthbtTrg3J9vTvxzW3_j_KUW4ybkhWivALwdGeuU_fGZYLhDRt7-aGQ17_C8kh-VfbH8N8Idz1EiXPVH39LE-1jwAFrsi8tiVWYyR4VOdEL2S6g9yLhAYj3kH-TfHwnBe_ivMAaQjzPwtOVsN8YB5QSWMq2fGGtVPvSYyjxCYqY0Xdc4Zdu31FtVTo64BJcDJ-GlXWc7viRVstU5B61uOK2F-P",
+                        "original": "https://www.coindesk.com/resizer/8ErPN7or208eoOhNLz4NKjr4c8c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PJJ7YGFR7VC6RKFKYG7VMTS57I.jpg"
+                    }
+                },
+                {
+                    "title": "Pro-Bitcoin Senator Lummis Promises to Leash SEC as She Stands With Kraken",
+                    "snippet": "US senator Cynthia Lummis bashed SEC for interfering with crypto companies, promises to take measures against regulator.",
+                    "publisher": "U.Today",
+                    "timestamp": "1700575051000",
+                    "newsUrl": "https://u.today/pro-bitcoin-senator-lummis-promises-to-leash-sec-as-she-stands-with-kraken",
+                    "images": {
+                        "thumbnail": "https://lh5.googleusercontent.com/proxy/NSG8gtMqwuG_I-6deleS9chKkWyOf6R9Y31iFsm1Kqhxz2q-LtK17J4nL5hHZLAtIWD5HfTHS4PvFVi6Hc9vxRkljW0AhaW0aj_COFdEm3Jg7MgdAcoKcaRi-SlxGXbMDdbbJO04-A",
+                        "original": "https://u.today/sites/default/files/styles/1600x900/public/2023-11/42214.jpg"
+                    }
+                },
+                {
+                    "title": "Kraken's SEC Drama: A Catalyst for GALA to Collapse?",
+                    "snippet": "Explore the impact of Kraken's SEC charges on the crypto market and GALA's potential in this intricate scenario. This article delves into GALA's promising ...",
+                    "publisher": "CryptoDaily",
+                    "timestamp": "1700595204000",
+                    "newsUrl": "https://cryptodaily.co.uk/2023/11/krakens-sec-drama-a-catalyst-for-gala-to-collapse",
+                    "images": {
+                        "thumbnail": "https://lh6.googleusercontent.com/proxy/PiiQGXGxK14zLueftcCxPZttbwo_Ls1vvhFHTc5ViEJUaYbJnV35iZbyeoyZY4ttVxaRglTfw-1KsObT_KhHp_unUkCjSCqRz6cH5_oxim29PYfawS6VQ_gKv_cVmG0Ivgym8MaSA-ng5g6uoSB3SA",
+                        "original": "https://cryptodaily.blob.core.windows.net/space/IMAGE%202023-11-21%2019%3A30%3A45.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Palantir Wins Big N.H.S. Contract Despite U.K. Criticism",
+            "snippet": "The Peter Thiel-owned company overcame opposition from activists, doctors and lawmakers to sign a lucrative deal with England's National Health Service.",
+            "publisher": "The New York Times",
+            "timestamp": "1700581044000",
+            "newsUrl": "https://www.nytimes.com/2023/11/21/business/palantir-nhs-uk-health-contract-thiel.html",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/HLvJqL1S43kS736b0cBA9XrFUtP9o1o6kqSmdpm_FhRPl4ff7y-iash6AlMPrFVDQ_tDLtKK7rGSdq0RU9v4AZA3a3iyRveTg4rUHeRaiYdO-YG7jLUnDR35k_evNORmE26AqNwGALrFyQiSGQhfIdnkUsG5je4fDo7SIKXV773lmlhJ0iox59n5C7CDLyJp1whqKIMsaqx4lAhx6--cONwT0KZlYYDKxUN1lY-xgw",
+                "original": "https://static01.nyt.com/images/2023/11/09/multimedia/00nhs-palantir-gfbk/00nhs-palantir-gfbk-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "On-the-job generative AI training is already critical for workers. Here's how to get started",
+            "snippet": "On-the-job training is critical as workers begin to use generative AI tools like ChatGPT and companies look to not be left behind.",
+            "publisher": "CNBC",
+            "timestamp": "1700575969000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/chatgpt-training-is-critical-for-workers-heres-how-to-get-started.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/PgkmSF9Tp2BZtk2DBsugWqUiTkqCa3Y_YI_Ja0k9fk4fBY9oclpZGwQA5wGIA09CkJgr88H91XYvttSeGyLZYX9E4p_B8c4Vygu7dGTSWQSW_dVRhCB6lUFwBEU3UhbLPTOJOcCDkWtSYWl1Y809r0BmmH-qwzxCy3pxTC09EhMcF0ZkTvMxIEX7Cg3hbL_GBMJYAQKgdokKsj4cNQG46Z2YPhioDJsl8PUM4Q",
+                "original": "https://image.cnbcfm.com/api/v1/image/107330253-1699378123311-gettyimages-1750507069-arriens-chatgpta231028_npV9n.jpeg?v=1699378199&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "American Eagle raises annual revenue forecast on strong holiday-season demand",
+            "snippet": "American Eagle Outfitters on Tuesday raised its annual revenue forecast, in a sign that demand for its apparel and accessories remained steady ahead of the ...",
+            "publisher": "Yahoo Finance",
+            "timestamp": "1700572179000",
+            "newsUrl": "https://finance.yahoo.com/news/american-eagle-raises-annual-revenue-130939289.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/yP2PsV3x-vUwozQiivMgJPoMHGyiRtJvPKxI0kFSQNz2Y_B1-4HNJHgDcrRC66DMtjUidad4BKHZABbuvisjHCcKkGIs5ij_eBeRULoxJ0KFSkhRGkL9yjk8MayPR1U4kKTvmyn-whIpvA",
+                "original": "https://media.zenfs.com/en/reuters-finance.com/08c3f27b3a65c201a52b7466123b6bc9"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Broadcom-VMware Deal Gets China Approval. Why the Stocks Are Dropping. - Barrons",
+            "snippet": "The vast majority of VMware shareholders (ticker: VMW) will get a windfall thanks to the run-up in Broadcom stock (AVGO) since the deal was announced.",
+            "publisher": "Barron's",
+            "timestamp": "1700577780000",
+            "newsUrl": "https://www.barrons.com/articles/broadcom-vmware-stock-price-deal-merger-aa032c48",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/TWhNfTnCa5yu8AHpio5P4N_jE6sV6Iiiv2wERwL80iTtFff7mMcPv-kCobJzYkBxdjay0ouO-agU_EjVyt8svu-Q0GeEtsm4Ifr03M1JrrQV-Eo",
+                "original": "https://images.barrons.com/im-31962952?width=1280&size=1"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Skiplagging: What is it and why are airlines cracking down on cost-cutting method?",
+            "snippet": "\"Skiplagging,\" also known as hidden-city ticketing or throwaway ticketing, is a workaround the booking system in an effort to save money.",
+            "publisher": "New York Post ",
+            "timestamp": "1700578140000",
+            "newsUrl": "https://nypost.com/2023/11/21/lifestyle/skiplagging-what-is-it-and-why-are-airlines-cracking-down/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/UTfhcaobE7sQW8869aJKI_smLmvpy1KAUFRI8BYOzGf_xnaGx9d_up2Ln4UfvymtE4lWzTySvJKHD7Pzfx2E33Th-TLRfLwGf9qBWWSkDOB6YRmxScJNiniysy3x936yIhASrOv9bw",
+                "original": "https://nypost.com/wp-content/uploads/sites/2/2023/11/skiplagging.gif?w=1200"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Natural Gas Price Forecast \u2013 Is Winter Canceled?",
+            "snippet": "Natural gas has fallen again during the trading session early on Monday, as traders seem to ignore the seasonal pressures that are going to be coming soon.",
+            "publisher": "FX Empire",
+            "timestamp": "1700489760000",
+            "newsUrl": "https://www.fxempire.com/forecasts/article/natural-gas-price-forecast-is-winter-canceled-1390012",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/CLK1zN-cKBRtYe8nikS3KYgGC1k34GGFbJuKVwA0NZGYCHwTcMorCj9_ts5CO9-1LrEktqTQPMKsYcyVgki_5-kjPMTmYUA2K9E-WfuD9RbqQeUSmBQho4q3mz8JjEsAW6FafL1W_5KtFh6_p54U",
+                "original": "https://responsive.fxempire.com/v7/_fxempire_/2023/11/Natural-Gas-8-1.jpg?width=1201"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Dyson Black Friday deals include up to $250 off its cordless vacuums",
+            "snippet": "Dyson is taking $175 off the V15 Detect Absolute stick vacuum. The device won't only clean your floors; it will show you how much dirt it's sucking up, ...",
+            "publisher": "Engadget",
+            "timestamp": "1700584262000",
+            "newsUrl": "https://www.engadget.com/dyson-black-friday-deals-include-up-to-250-off-its-cordless-vacuums-163102157.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/vTg5HN8Ik89ev00atdz7ZFrt1GLtXSVjqxV0hdHHI7qn1_abxI80dMh4be2mrDXjkiao0SulidAgi-fOxQxL1XciK5MJNjXdo0uC_lugYLyeAfejX527i_CPfwEPm0UJYdsSOyU7hhj9y24GPCcKrx4cSBF15y0LmDZColuKKp7Vu7awOC537d3Sno9sF_MSLAxptCL7bKlvL1Di1jV6Iag2NhnJHCZdxLIqFASKNNDb0xALuYxXZI6CtGB1WD8y88LXFlA7DZcmU7mPwwBMKZVMigd5NOo42w",
+                "original": "https://s.yimg.com/ny/api/res/1.2/RBDvXenDABTPIDgmmtlglg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM4NA--/https://s.yimg.com/os/creatr-uploaded-images/2023-11/ea6d3000-888b-11ee-9eeb-98bf04eed0ef"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Hedge fund herding is worse than ever",
+            "snippet": "The US stock market's \u201cMagnificent Seven\u201d have been a headache for mutual fund managers, who have mostly eschewed them and are paying the performance price.",
+            "publisher": "Financial Times",
+            "timestamp": "1700562334000",
+            "newsUrl": "https://www.ft.com/content/047d52a0-01a1-4db5-b342-f7f159d10d84",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/RGTfoHMyV6Y9ZJk9doHXj_3P3Tmf2mMjTZMdYIiCwZz8dQjO-7MWxspe6uCBYgDnNdSPnlVmTU0WxDNzt0HwYmze3g9EwOTiwFFaBWEvDYZBhOeKiw-emklBTFu1qVCFoJNHrMW8RFf8OEO7LNW-Monbt3zP0VvgNreQ4XMMSGFIpAnskatZ1U6MacpAvznFIxApjQ-j6VlCd04Bq2TeDQqzn_3ZRNQ_wfZL_XWGS4ArI0XQivlD3X2IIBz6f5Lt0janFkH9lkuqCNhnoFeaYmu7VtiDOHbPzwR3jPUuJhWH2w1iDzYxp5ju845VORlVBq5WcDeZJeQBi84",
+                "original": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85a43bad-0e2a-47e8-b308-65fde2cbaa3d.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "CNBC Daily Open: Record highs for Microsoft and Nvidia",
+            "snippet": "This report is from today's CNBC Daily Open, our new, international markets newsletter. CNBC Daily Open brings investors up to speed on everything they need ...",
+            "publisher": "CNBC",
+            "timestamp": "1700524489000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/stock-markets-record-highs-for-microsoft-and-nvidia.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/j7zEE30uA-3ATebt9kEjZnWs0yLNsnHSZQcavpuLTNGWEe0UFbqjNumeSV18zB6cRWAQpRBC98MeU55tZ3gNJuMH4s4JEW7fO0urG6miIZbLe7LQNEWxn5CObC5rsqe0LyC7jRISVLK4ELhoMTKIvfRDQzVI9gIKCHaj08XvWUFnuOpwRpuf4ANpFwIk6aayRP26eASX",
+                "original": "https://image.cnbcfm.com/api/v1/image/107000993-1642106153402-gettyimages-626738964-93605503.jpeg?v=1700524415&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "At FAA command center, round-the-clock work to keep holiday flights on track",
+            "snippet": "The only facility of its kind in the FAA system, located outside Washington in Virginia, is charged with managing traffic across the national airspace.",
+            "publisher": "The Washington Post",
+            "timestamp": "1700594160000",
+            "newsUrl": "https://www.washingtonpost.com/transportation/2023/11/21/faa-air-traffic-command-center-virginia/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/X2zuGyD9apHSCaP2ZlCSfhw4khe6B4OrXS8A-wuyZlgbWY4u1itqTssXDrs1FMTFik0hjcgFSxvDDjLT_2qydkxK4ZUIMXqE8TBnAUzA4aB64NiegZbAciYqPSCxfcQIV3IYQMQWmwNf1oFHIo1lOq6lHDdgH1KDPIEfoDbH3ystHBjRG_tX67jyY3AODmmTjogBzU7q6NYmInRT7ryNtyo4DsnUfxo0YTrnUesctrEGhgOc4cleqrLgkpmaz-IXRuSCyl3AKnZij5I",
+                "original": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/426UEVO7FYI7DAHPOS6LKWOF74_size-normalized.JPG&w=1440"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "'Possessed' Woman Filmed Being Removed From Flight After Wailing and Climbing Over Seats",
+            "snippet": "The terrifying incident took several turns for the worse, and it was all caught on video.",
+            "publisher": "Yahoo Entertainment",
+            "timestamp": "1700603514000",
+            "newsUrl": "https://www.yahoo.com/entertainment/video-shows-possessed-woman-being-215154599.html",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/wFWFDGA5i7lK5giA3oOO4F8d8s6VmJKvFyC07yyxVXFi9b5Fux8FMVjHgjLOHhV9mhlnh1XkcGYJvNAHOOGlv8fJpyeApGLvRrDMy_10WYT2Hxf2cYCaTPPZMLjrAC2ajXrHlohw8ZXWMDIXxEbvEZGBkbcxcihEBxhResWY5G8Wal345vypmvS9tffpBLpYIJTciAJ5ijNv8sYnNdcZuCfJS-LFWGkVwNXUyt9O_UB8pLIBodxUwDzEb5j2XU2vPjFs-BO6",
+                "original": "https://s.yimg.com/ny/api/res/1.2/U83aXpgE_g9FB5nYXHm8Gg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQwMg--/https://media.zenfs.com/en/complex584/e369c0ceb1d86c8acbda8beee58e9c11"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "670 stations to offer gas for $1.99 per gallon Thanksgiving weekend",
+            "snippet": "A major gas station chain is selling unleaded 88 gas for $1.99, which the EPA says 9 out of 10 vehicles can safely use.",
+            "publisher": "Scripps News",
+            "timestamp": "1700588744000",
+            "newsUrl": "https://scrippsnews.com/stories/670-stations-to-offer-gas-for-1-99-per-gallon-thanksgiving-weekend/",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/sG5Ra2E0S9DztBI9X7IgdU1RkUlu-g9qSzQS9w5ufyUJ_T6bJ0eCsXeBBgCOUiOlGgyhlC4MMICtj-87tdZW5K1mUYr00r939CYwcVLdlj11Y3_tnaUOtVM8UKc",
+                "original": "https://cdn.scrippsnews.com/images/videos/x/1700585152_IGiFFi.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Texas AG sues Pfizer for allegedly selling medicine it knew was ineffective, manipulated quality-test results",
+            "snippet": "Pfizer and Tris manipulated quality-test results from 2012 to 2018 to obtain the Medicaid reimbursement for Quillivant, AG Ken Paxton claims.",
+            "publisher": "Fox Business",
+            "timestamp": "1700571960000",
+            "newsUrl": "https://www.foxbusiness.com/politics/texas-ag-sues-pfizer-allegedly-selling-medicine-knew-ineffective-manipulated-quality-test-results",
+            "images": {
+                "thumbnail": "https://lh3.googleusercontent.com/proxy/IqNsYcdrXeyTPzz_Vs_7o_1QwDq478XIs48aEpi6YsWNDJnzC1MdrLjYNp1Ux5PtUjKMG_-25pViMWA9JUFTljMxU5USYgr6oCa3CamqsWmeaSiDn6VlhgtJUPrYR4THNbLnvZP946NWUIqsQ9fBtXAlT3VvF9P4n9e0EA",
+                "original": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/GettyImages-1236831296.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "USPS Operation Santa 2023 looks to spread Christmas cheer",
+            "snippet": "Are you craving a white Christmas, pining for a red-nosed reindeer \u2013 all before a Black Friday? So is the U.S. Postal Service, which is opening its annual ...",
+            "publisher": "USA TODAY",
+            "timestamp": "1700482551000",
+            "newsUrl": "https://www.usatoday.com/story/news/nation/2023/11/20/usps-operation-santa-2023-christmas-letter-adopters/71559245007/",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/zJtN4rsHGmKk897wqWykV3gKjneqGAxSMFkejlQC-OT3kdLsoJ5FiLU8qsxhccobmi9hd6ucuBH5B36WIsxAu9KyXivRovk2uw_ZgBV3HhnSkNH81kFeSrM8LZNw8BwQLQljfqWhlDTHd5u0l_Ey0y9hU5zI1sMdpP09KcadJeBLykdOPDulf6KZYXBNlKgBmFUPfpusc1Fw9hoQ0gcl6yRm3h_Z6YU78y7nt6eA9z6b9zXg6TRP4VQYug",
+                "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/15/USAT/71598155007-clean.jpg?crop=1919,1079,x0,y0&width=1280&height=720&format=pjpg&auto=webp"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Goldman Sachs expects China stocks to make first annual gain in 4 years in 2024",
+            "snippet": "Chinese stocks may have their first yearly gain in four years in 2024, helped by more accommodative policy that should cushion the drag from the property ...",
+            "publisher": "CNBC",
+            "timestamp": "1700614740000",
+            "newsUrl": "https://www.cnbc.com/2023/11/22/china-stocks-2024-goldman-sachs-sees-rebalancing-and-policy-support.html",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/jUw7iUO08QIK9Og5RxFxL7Bx75ZRfD8sTL6WeXA6_2ZoNSdomXpFZ0pr0kVAKLjV8GB3R4kRqa60fKE6mLh4glk3p--kTHhlqmz50JPncb6jWisoqQi9x9c_vxcD6-O0UGnm1Ro6HCKtJCIER5F8wVoiTndK-N2WGmuwGL5jHqlZzekAP1FXFY9lu0N5R74hNBwyLc3Dqz_w0qkclXQmTgiJhQ_MlQ",
+                "original": "https://image.cnbcfm.com/api/v1/image/107336960-1700540390156-gettyimages-137498822-000018924540_Unapproved.jpeg?v=1700540451&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Chinese tech giant Baidu's shares rise 2% after revenue beat",
+            "snippet": "Chinese tech giant Baidu reported third-quarter revenue that beat expectations, although growth was slower than during the previous three months.",
+            "publisher": "CNBC",
+            "timestamp": "1700561818000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/baidu-q3-earnings-chinese-tech-giant-reports-revenue-beat.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/6gB3pljd0RFroDErOUQoNuddkbIDq7EwinhH7NzbCyZagckMRAOpIGRcgsNLVKdGhlNM0siRSdaFZZnSP9ERAmRUUybh4cYoiu1zmXiut6yw2lNJSpIA6WRIKxxLMfUfdIIJWOYxxzIQ5VnGkUxQhCN5idQYWbgl0M5m20yi7uXcma6I7vsqTTvSpSqz17AKediUaxvfrJGFaKoshL3tPIRNXMmrhn9L7tUMRIjPSSNEgAuml2s",
+                "original": "https://image.cnbcfm.com/api/v1/image/107111213-16618626982022-08-30t102021z_659801199_rc2x6w98tzw1_rtrmadp_0_baidu-results.jpeg?v=1678966622&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Will American Airlines Flight Attendants Strike This Christmas? Inside the Labor Dispute",
+            "snippet": "American Airlines flight attendants have asked the National Mediation Board to release them from negotiations, in order to allow them to strike.",
+            "publisher": "View from the Wing",
+            "timestamp": "1700570046000",
+            "newsUrl": "https://viewfromthewing.com/will-american-airlines-flight-attendants-strike-this-christmas-inside-the-labor-dispute/",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/ZYS_oY4lKTtinf3m3LvMEknDoQzlHM3z42sGpcF4unOzzTW6-lpeby1-GQqZZU1-DgXVS3j5QxaM5E4RF8JYdLLsu8vRFP89OWpLksCau9EAO0Yt_cIPUZc_Oa0L480WMHxrjjpVPSrMojMRB9G8-CfG",
+                "original": "https://viewfromthewing.com/wp-content/uploads/2023/11/Screenshot-2023-11-21-063009.png"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "China's Nio, Changan Auto to jointly develop battery-swapping EVs",
+            "snippet": "Nio said on Tuesday it would partner with Changan Automobile to develop battery-swapping electric vehicles, in an attempt by the loss-making Chinese EV ...",
+            "publisher": "Reuters",
+            "timestamp": "1700576786000",
+            "newsUrl": "https://www.reuters.com/markets/deals/chinas-nio-partner-with-changan-auto-developing-battery-swapping-evs-2023-11-21/",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/3rAm7Fwo3_fLM93cCgOmPVxrdpfqb_Gu5Vx6V2Q5b8nGj_cnWmannR8MPGSxYvdPFkYxp9j9oOqCzJlpOMtjOoV_1dRaFWlpueyYUWQZcK2XzDz3iCr93YMyOD2xVouvT7AX-Ve9W8TSBOLHDd25Rji3bndOHhdQC8JuVia6yGrHO4LTGTdtvFE1KGt3hebVPuOAE46C3OtjYtnn-fKffEU1_bpkm72fPbCIc5eGTb6Uy_xNx_jSN4d50sX7uKs10mWT80WRG3k",
+                "original": "https://www.reuters.com/resizer/i6ehgyg5r7P1drM2INOP7Dp_3ac=/1080x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/L35EMSBM7BP5TIIR7NLSTHKP6Q.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Kim Kardashian's Buyout Firm Reaches First Deal With Truff Sauce Brand",
+            "snippet": "Skky Partners LP, the investment firm led by Kim Kardashian and Jay Sammons, has gotten a taste of the private equity world now with its first acquisition ...",
+            "publisher": "Bloomberg",
+            "timestamp": "1700568000000",
+            "newsUrl": "https://www.bloomberg.com/news/articles/2023-11-21/kim-kardashian-s-buyout-firm-reaches-first-deal-with-truff-sauce-brand",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/0ls1CCYJz-vQZq0SeW6O019UnHUvbUtsAocWxGCc-YqE7VTVtBNcxgt0sY5JLXWbltAHLBUt6X6zMRlcAqxZhYD_jELJZ8pgHV1zk89uPeIiAKh1EXyInri_3-cY9stdnm0ig_KI",
+                "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGlBu18_Hbk4/v3/620x-1.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Merck to Acquire Caraway Therapeutics, Inc.",
+            "snippet": "November 21, 2023 6:45 am ET. Acquisition underscores Merck's ongoing commitment to developing treatments for neurodegenerative diseases.",
+            "publisher": "Merck",
+            "timestamp": "1700567100000",
+            "newsUrl": "https://www.merck.com/news/merck-to-acquire-caraway-therapeutics-inc/",
+            "hasSubnews": false
+        },
+        {
+            "title": "Cramer broadly agrees with Bank of America's bullish analysis, says next year could bring gains for the S&P 500",
+            "snippet": "CNBC's Jim Cramer gave his thoughts on Bank of America's bullish prediction for 2024.",
+            "publisher": "CNBC",
+            "timestamp": "1700613120000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/cramer-agrees-with-bank-of-america-says-2024-gains-for-the-sp-500.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/ltGMlvXfN1mlEVscrTYGucFBp_tAkn_qq5sRYjVNrX7nB1lSdjXN9iqtWShmReb9J5AHegKfC2pzlAiH4m72crj0jhXop5nVKVP9sdRHXSFWS9BUODoIcOTHttomkUWHOSiW-KUfSfflsXFgVtLBNP6cCczC",
+                "original": "https://image.cnbcfm.com/api/v1/image/104979618-IMG_2870_2rr.jpg?v=1692140400&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Jeff Bezos 'aggressive' again Tuesday selling more Amazon stock after unloading shares last week, sources say",
+            "snippet": "Jeff Bezos is expected to be \"aggressive\" in dumping more shares of Amazon on Tuesday, sources told CNBC's David Faber.",
+            "publisher": "CNBC",
+            "timestamp": "1700583266000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/bezos-aggressive-again-tuesday-selling-more-amazon-stock-sources.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/6ddGRLfhc4fw12OmtNCBT7cym-B_iNgS5-_QN3dRWzIqDkUseAwY7nysjXqkZvi1gZaFmeLbHLyNcaZRGVrseWaQo6_EdN6IPPF0HWu5LSWzK1AkXAr5O6ZRU2ZvpVNmDZ_F483eiNKDY6hD4B1I_gbTY8eE_SbJo0W-YnkjwlXDJzUsND05UfN0WHKQXjGGdKTR7vwiIpUzeDSS43GfZjdm0uVUswxD",
+                "original": "https://image.cnbcfm.com/api/v1/image/107002692-1642530190910-gettyimages-1353159820-baby017_2021111393933391.jpeg?v=1700577640&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Prime Members Get First Dibs on Amazon's Best Black Friday Kitchen Deals\u2014Up 71% Off",
+            "snippet": "Amazon Prime members can save up to 71% off on appliances, cookware, and kitchen tools right now. These early Black Friday deals are exclusive to Prime ...",
+            "publisher": "Food & Wine",
+            "timestamp": "1700560800000",
+            "newsUrl": "https://www.foodandwine.com/amazon-prime-members-only-early-black-friday-2023-8387002",
+            "images": {
+                "thumbnail": "https://lh6.googleusercontent.com/proxy/lLRcIolR6W7RxGdTz495Xob_RqKamNV5eT3khKdRGFzuiHtuQrcB56msZMuKkJVdwvsPQCNHV7DP-h7LFpig4mjOPMX4_BQCxlRv4nc6jBVKPdjrZEXCi6OuxJoduCNLZfj6M0jlrukSwNFas9HqD3jSkYo0WaaAiqQ5oZoE50T18K4OjaPD9bPtF70oRFJmX73QkP3fgfJ4N9fp2zJc0wGhzOrdURzzEh5D7VxhiFkzMm40zDpAXQ4aruag_Bh6EtmeMsxdczigRvewSOzi1w8SEdaZt5s7gzIStuxE-lIESQ",
+                "original": "https://www.foodandwine.com/thmb/1PPgD-FzTbU2Jur79qqU_sKzVFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sensarte-nonstick-frying-pan-skillet-tout-726b27a3db114991abb27958957c6f08.jpg"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "A divorce could cost you more than $140,000. Here's how to prevent a costly split",
+            "snippet": "No one plans on getting divorced. But if you have to part ways with your spouse, here's how to keep your costs down.",
+            "publisher": "CNBC",
+            "timestamp": "1700571601000",
+            "newsUrl": "https://www.cnbc.com/2023/11/21/heres-how-to-prevent-a-costly-divorce.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/VunSbowFRkAPrTJnnaRyGYfmCKl_6KW9aoQtvbI6YV1S1HoJlIm90QB9VrUGki_r8toNO1Mn6vHEBUFJ_Gssc_WF9DEQxDmbxVLUYDx6f8iNmovQrImssyScm9HLL0mGXnc9hI3l_yqVKDdx_M47_llY9i7XJngi_KxtteBLGz_7-2C2oUNxBByZWWPXyWc",
+                "original": "https://image.cnbcfm.com/api/v1/image/107329693-1699299642817-GettyImages-1482852071_1.jpg?v=1699299703&w=1600&h=900"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Cantaloupe recall: FDA investigating salmonella outbreak",
+            "snippet": "The FDA is warning people not to consume recalled cantaloupe products as it investigates a salmonella outbreak.",
+            "publisher": "USA TODAY",
+            "timestamp": "1700499783000",
+            "newsUrl": "https://www.usatoday.com/story/money/2023/11/20/cantaloupe-recall-salmonella-outbreak/71651865007/",
+            "images": {
+                "thumbnail": "https://lh5.googleusercontent.com/proxy/oKR_JPtB58RvUWGyQBLR-OA1bUyI9lBQ_JxRANzixU-c0mZr64B-ikcvZqSmon0aMc5PQtKafnxQKn8bff8TXprunj72Fy8hqEekBtHee-xGxkDeB-jyMbE3AAGP8lwJ1PcZjg_twP7Kwl0krijYPi_w4tWUZHhi3yAzmnUMFJDug0-CIL8_Cnb-M8WzDnst54sYTKwh-a_0D_rJTHXoZdexfP8kv3BtU35OfBKKVLqD4QBNwAJmLpUrBNvCiSxxRQ",
+                "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/23/NTCJ/70662336007-en-1-3089.JPG?crop=5759,3255,x0,y292&width=1280&height=720&format=pjpg&auto=webp"
+            },
+            "hasSubnews": false
+        },
+        {
+            "title": "Weed killer company Roundup ordered to pay more than $1.5 billion to three gardeners over claims it gave them",
+            "snippet": "Valorie Gunther of New York, Jimmy Draeger of Missouri and Daniel Anderson of California were diagnosed with non-Hodgkin's lymphoma linked to the spray ...",
+            "publisher": "Daily Mail",
+            "timestamp": "1700586570000",
+            "newsUrl": "https://www.dailymail.co.uk/news/article-12775657/Weed-killer-Roundup-court-cancer-health-Missouri-lymphoma.html",
+            "images": {
+                "thumbnail": "https://lh4.googleusercontent.com/proxy/0a1IcMSGfgr6PvavDKzNZJEFXw51cdDza3Krig6vHQJQCuZXGd7d_t1ZCIK1yA9t1VS1m04Flm3dG0pXnJnLn7FZjJT0VpwODSqKudZYeHfzrWfaK697uX4koMCFz3DOgLvZEa7WG28zV0URBQ",
+                "original": "https://i.dailymail.co.uk/1s/2023/11/21/17/78070581-0-image-a-45_1700586559872.jpg"
+            },
+            "hasSubnews": false
+        }
+    ]
+}
